@@ -321,7 +321,7 @@ najpiękniejsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>Żeby zapisać zdjęcie, daj Background dostęp do Biblioteki Zdjęć.</target>
+        <target>Daj Background dostęp do Biblioteki Zdjęć, zeby zapisywać zdjęcia.</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">

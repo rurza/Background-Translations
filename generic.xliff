@@ -1,6 +1,19 @@
+<!--
+ //
+        Info.plist
+ //
+ 
+ // 3D Touch
+ UIApplicationShortcutItemTitleLatest = "Latest";
+ UIApplicationShortcutItemTitleCurated = "Curated";
+ UIApplicationShortcutItemTitleSearch = "Search";
+ //
+ //Photo Library permissions alert
+ NSPhotoLibraryUsageDescription = "Give Background Access to your Photo Library to save images.";
+ -->
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="generic">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -16,7 +29,8 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="it">
+  <!--    iOS Widget info    -->
+  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="generic">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -58,13 +72,14 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="it">
+  <!--    END iOS Widget info    -->
+  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="generic">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body/>
   </file>
-  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="generic">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -77,37 +92,43 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="it">
+  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="generic">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body>
       <trans-unit id="Access Photo Library">
+          <!--    Image 1b      -->
         <source>Access Photo Library</source>
         <target></target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="App Store">
+          <!--    Image 4b      -->
         <source>App Store</source>
         <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="Background Premium">
+          <!--    Image 4a      -->
         <source>Background Premium</source>
         <note>button title that purchase Background Premium
    Settings - section title</note>
       </trans-unit>
       <trans-unit id="Background photos use %@ on disk.">
+          <!--    Image 4b      -->
         <source>Background photos use %@ on disk.</source>
         <target></target>
         <note>Disk usage information. %@ is usage</note>
       </trans-unit>
       <trans-unit id="Background\nis all about beautiful photos.">
+          <!--    Image 1a      -->
         <source>Background
 is all about beautiful photos.</source>
         <target></target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
+          <!--    Image 4b      -->
         <source>Cache</source>
         <note>Settings - section title</note>
       </trans-unit>
@@ -118,6 +139,7 @@ is all about beautiful photos.</source>
    in-app purchase error title</note>
       </trans-unit>
       <trans-unit id="Change feed by swiping left or right.">
+          <!--    Image 1e      -->
         <source>Change feed by swiping left or right.</source>
         <target></target>
         <note>Description how to change the feed (in onboarding)</note>
@@ -128,16 +150,19 @@ is all about beautiful photos.</source>
         <note>new photos availale notification title</note>
       </trans-unit>
       <trans-unit id="Clear Cache">
+          <!--    Image 4b      -->
         <source>Clear Cache</source>
         <target></target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Curated">
         <source>Curated</source>
+        <!--    Image 4a      -->
         <target></target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Have Fun!">
+          <!--    Image 2a      -->
         <source>Have Fun!</source>
         <target></target>
         <note>Search demo turned on - alert title</note>
@@ -153,16 +178,19 @@ is all about beautiful photos.</source>
         <note>alert error button action</note>
       </trans-unit>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
+          <!--    Image 1b      -->
         <source>It can send you notifications when there are some cool new photos.</source>
         <target></target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
+          <!--    Image 4a      -->
         <source>Latest</source>
         <target></target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Let's go!">
+          <!--    Image 1e      -->
         <source>Let's go!</source>
         <target></target>
         <note>button title</note>
@@ -171,11 +199,6 @@ is all about beautiful photos.</source>
         <source>Looks like you haven't bought Background Premium 😇</source>
         <target></target>
         <note>error localized description</note>
-      </trans-unit>
-      <trans-unit id="Most Popular">
-        <source>Most Popular</source>
-        <target></target>
-        <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
@@ -192,6 +215,7 @@ is all about beautiful photos.</source>
         <note>Error title</note>
       </trans-unit>
       <trans-unit id="Now you can use the Search for a day">
+        <!--    Image 2a      -->
         <source>Now you can use the Search for a day</source>
         <target></target>
         <note>Search demo turned on - alert body</note>
@@ -216,6 +240,7 @@ is all about beautiful photos.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Premium – %@">
+          <!--    Image 4a      -->
         <source>Premium – %@</source>
         <note>Button title, where Premium is constant and %@ is localized price
    purchase Background Premium, %@ is price</note>
@@ -235,11 +260,13 @@ is all about beautiful photos.</source>
         <note>alert with error body</note>
       </trans-unit>
       <trans-unit id="Rate on the App Store">
+          <!--    Image 4b      -->
         <source>Rate on the App Store</source>
         <target></target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Restore purchase">
+          <!--    Image 4b      -->
         <source>Restore purchase</source>
         <target></target>
         <note>restore background premium button
@@ -247,22 +274,26 @@ is all about beautiful photos.</source>
    restore Background Premium purchase button</note>
       </trans-unit>
       <trans-unit id="SAVED">
+          <!--    Image 3      -->
         <source>SAVED</source>
         <target></target>
         <note>photo was saved to library</note>
       </trans-unit>
       <trans-unit id="Screens Order">
+          <!--    Image 4a      -->
         <source>Screens Order</source>
         <target>w</target>
         <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="Search">
+          <!--    Image 2b/4a      -->
         <source>Search</source>
         <target></target>
         <note>(Settings) Screen order - title
    search text field</note>
       </trans-unit>
       <trans-unit id="Search requires Background Premium.">
+          <!--    Image 2      -->
         <source>Search requires Background Premium.</source>
         <target></target>
         <note>Search in-app purchase description</note>
@@ -273,6 +304,7 @@ is all about beautiful photos.</source>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Settings">
+          <!--    Image 4a      -->
         <source>Settings</source>
         <target></target>
         <note>(Settings) Screen order - title</note>
@@ -293,11 +325,13 @@ is all about beautiful photos.</source>
         <note>Generic 'new photos' notification body</note>
       </trans-unit>
       <trans-unit id="Sponsored">
+          <!--    Image 5      -->
         <source>Sponsored</source>
         <target></target>
         <note>ad sponsred label</note>
       </trans-unit>
       <trans-unit id="Tap to refresh the feed">
+          <!--    Image 6      -->
         <source>Tap to refresh the feed</source>
         <target></target>
         <note>internal notification</note>
@@ -313,16 +347,19 @@ is all about beautiful photos.</source>
         <note>alert title</note>
       </trans-unit>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
+          <!--    Image 4b      -->
         <source>The button below will open Background's App Store page, where you can rate it.</source>
         <target></target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
+          <!--    Image 1b      -->
         <source>To save photos give Background access to your Photo Library.</source>
         <target></target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
+          <!--    Image 1d      -->
         <source>Touch and hold a photo to save it.</source>
         <target></target>
         <note>(Onboarding) Description how to save photo</note>
@@ -334,6 +371,7 @@ is all about beautiful photos.</source>
    onboarding - error button action</note>
       </trans-unit>
       <trans-unit id="Try the Search for free">
+          <!--    Image 2      -->
         <source>Try the Search for free</source>
         <target></target>
         <note>Search demo button title</note>
@@ -344,6 +382,7 @@ is all about beautiful photos.</source>
         <note>alert error body</note>
       </trans-unit>
       <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
+          <!--    Image 2 and 4a      -->
         <source>With Background Premium you get:
 No ads.
 Search.
