@@ -44,6 +44,10 @@ This should be translated too 😚
 
 
 
+#### Let me know if you want to be in acknowledgements (will be in the app itself, in Settings)
+
+
+
 Thanks a lot! Any questions?
 
 [Mail](adam@micropixels.pl)
