@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Background</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.10</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="Can't download info from Unsplash">
+        <source>Can't download info from Unsplash</source>
+        <target></target>
+        <note>widget - error</note>
+      </trans-unit>
+      <trans-unit id="Can't download the latest photo">
+        <source>Can't download the latest photo</source>
+        <target></target>
+        <note>widget - error</note>
+      </trans-unit>
+      <trans-unit id="Curated">
+        <source>Curated</source>
+        <target>Kuratert</target>
+        <note>widget - button title</note>
+      </trans-unit>
+      <trans-unit id="Downloading info from Unsplash">
+        <source>Downloading info from Unsplash</source>
+        <target></target>
+        <note>widget - info</note>
+      </trans-unit>
+      <trans-unit id="Downloading photo">
+        <source>Downloading photo</source>
+        <target></target>
+        <note>widget - info</note>
+      </trans-unit>
+      <trans-unit id="Latest">
+        <source>Latest</source>
+        <target>Nyeste</target>
+        <note>widget - button title</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target>Søk</target>
+        <note>widget - button title</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.10</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="nb">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="Access Photo Library">
+        <source>Access Photo Library</source>
+        <target>Tilgang til fotobibliotek</target>
+        <note>button title</note>
+      </trans-unit>
+      <trans-unit id="App Store">
+        <source>App Store</source>
+        <note>Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Background Premium">
+        <source>Background Premium</source>
+        <note>button title that purchase Background Premium
+   Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Background photos use %@ on disk.">
+        <source>Background photos use %@ on disk.</source>
+        <target>Bilder bruker %@ på disk.</target>
+        <note>Disk usage information. %@ is usage</note>
+      </trans-unit>
+      <trans-unit id="Background\nis all about beautiful photos.">
+        <source>Background
+is all about beautiful photos.</source>
+        <target>Background
+handler om/er vakre bilder.</target>
+        <note>onboarding - first screen, welcome</note>
+      </trans-unit>
+      <trans-unit id="Cache">
+        <source>Cache</source>
+        <note>Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Can't complete transaction">
+        <source>Can't complete transaction</source>
+        <target>Kan ikke fullføre transaksjonen</target>
+        <note>alert title
+   in-app purchase error title</note>
+      </trans-unit>
+      <trans-unit id="Change feed by swiping left or right.">
+        <source>Change feed by swiping left or right.</source>
+        <target>Endre feed ved å sveipe til venstre eller høyre.</target>
+        <note>Description how to change the feed (in onboarding)</note>
+      </trans-unit>
+      <trans-unit id="Check out new photos!">
+        <source>Check out new photos!</source>
+        <target>Sjekk ut nye bilder!</target>
+        <note>new photos availale notification title</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache">
+        <source>Clear Cache</source>
+        <target>Tom Cache</target>
+        <note>button title</note>
+      </trans-unit>
+      <trans-unit id="Curated">
+        <source>Curated</source>
+        <target>Kuratert</target>
+        <note>(Settings) Screen order - title</note>
+      </trans-unit>
+      <trans-unit id="Have Fun!">
+        <source>Have Fun!</source>
+        <target>Ha gøy!</target>
+        <note>Search demo turned on - alert title</note>
+      </trans-unit>
+      <trans-unit id="I can't download photos.">
+        <source>I can't download photos.</source>
+        <target>Jeg kan ikke laste ned bilder.</target>
+        <note>onboarding - error body</note>
+      </trans-unit>
+      <trans-unit id="I will, later">
+        <source>I will, later</source>
+        <target>Senere</target>
+        <note>alert error button action</note>
+      </trans-unit>
+      <trans-unit id="It can send you notifications when there are some cool new photos.">
+        <source>It can send you notifications when there are some cool new photos.</source>
+        <target>Jeg kan sende deg beskjed når det er noen kule bilder.</target>
+        <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
+      </trans-unit>
+      <trans-unit id="Latest">
+        <source>Latest</source>
+        <target>Nyeste</target>
+        <note>(Settings) Screen order - title</note>
+      </trans-unit>
+      <trans-unit id="Let's go!">
+        <source>Let's go!</source>
+        <target>Begynn!</target>
+        <note>button title</note>
+      </trans-unit>
+      <trans-unit id="Looks like you haven't bought Background Premium 😇">
+        <source>Looks like you haven't bought Background Premium 😇</source>
+        <target>Du ser ut som du ikke har kjøpt en premium Background 😇</target>
+        <note>error localized description</note>
+      </trans-unit>
+      <trans-unit id="Most Popular">
+        <source>Most Popular</source>
+        <target>Mest populære</target>
+        <note>(Settings) Screen order - title</note>
+      </trans-unit>
+      <trans-unit id="New photos available">
+        <source>New photos available</source>
+        <target>Nye tilgjengelige bilder</target>
+        <note>internal notification</note>
+      </trans-unit>
+      <trans-unit id="Nooooo :(">
+        <source>Nooooo :(</source>
+        <note>Alert title</note>
+      </trans-unit>
+      <trans-unit id="Nothing to restore">
+        <source>Nothing to restore</source>
+        <target>Ingenting å gjenopprette</target>
+        <note>Error title</note>
+      </trans-unit>
+      <trans-unit id="Now you can use the Search for a day">
+        <source>Now you can use the Search for a day</source>
+        <target>Nå du kan bruke søkefunksjonen for en dag</target>
+        <note>Search demo turned on - alert body</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Oh no!">
+        <source>Oh no!</source>
+        <target>Å nei!</target>
+        <note>onboarding - error title</note>
+      </trans-unit>
+      <trans-unit id="Oh no! Can't download photos">
+        <source>Oh no! Can't download photos</source>
+        <target>Å nei! Kan ikke lagre ned bilder</target>
+        <note>dashboard - error</note>
+      </trans-unit>
+      <trans-unit id="Open Settings">
+        <source>Open Settings</source>
+        <target>Åpne innstillinger</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Premium – %@">
+        <source>Premium – %@</source>
+        <note>Button title, where Premium is constant and %@ is localized price
+   purchase Background Premium, %@ is price</note>
+      </trans-unit>
+      <trans-unit id="Purchase was deferred">
+        <source>Purchase was deferred</source>
+        <target>Kjøpet ble utsatt</target>
+        <note>alert with error title
+   in-app purchase was deferred, for exmaple phote has parental control turned on and user can't complete purchase</note>
+      </trans-unit>
+      <trans-unit id="Purchase was deferred. I will disable buttons for some time">
+        <source>Purchase was deferred. I will disable buttons for some time</source>
+        <note>Error description</note>
+      </trans-unit>
+      <trans-unit id="Purchase was deferred. I will disable buttons.">
+        <source>Purchase was deferred. I will disable buttons.</source>
+        <note>alert with error body</note>
+      </trans-unit>
+      <trans-unit id="Rate on the App Store">
+        <source>Rate on the App Store</source>
+        <target>Rangere på App Store</target>
+        <note>button title</note>
+      </trans-unit>
+      <trans-unit id="Restore purchase">
+        <source>Restore purchase</source>
+        <target>Gjenopprett kjøp</target>
+        <note>restore background premium button
+   Restore Background Premium button title
+   restore Background Premium purchase button</note>
+      </trans-unit>
+      <trans-unit id="SAVED">
+        <source>SAVED</source>
+        <target>LAGRET</target>
+        <note>photo was saved to library</note>
+      </trans-unit>
+      <trans-unit id="Screens Order">
+        <source>Screens Order</source>
+        <target>Ordre skjermene</target>
+        <note>Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target>Søk</target>
+        <note>(Settings) Screen order - title
+   search text field</note>
+      </trans-unit>
+      <trans-unit id="Search requires Background Premium.">
+        <source>Search requires Background Premium.</source>
+        <target>Søket krever en Premium Background</target>
+        <note>Search in-app purchase description</note>
+      </trans-unit>
+      <trans-unit id="Send Notifications">
+        <source>Send Notifications</source>
+        <target>Send varsler</target>
+        <note>button title</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Innstillinger</target>
+        <note>(Settings) Screen order - title</note>
+      </trans-unit>
+      <trans-unit id="Some great, new photos are available in curated photos feed">
+        <source>Some great, new photos are available in curated photos feed</source>
+        <target>Noen nye flotte bilder er tilgjengelige i kuraterte bilder</target>
+        <note>Title of notification body, when new photos are available in curated photos feed</note>
+      </trans-unit>
+      <trans-unit id="Some great, new photos are available in latest photos feed">
+        <source>Some great, new photos are available in latest photos feed</source>
+        <target>Noen nye flotte bilder er tilgjengelige i de nyeste bildene
+            feedet</target>
+        <note>Title of notification body, when new photos are available in latest photos feed</note>
+      </trans-unit>
+      <trans-unit id="Some great, new photos are available 🌊">
+        <source>Some great, new photos are available 🌊</source>
+        <target>Noen nye flotte bilder er tilgjengelige 🌊</target>
+        <note>Generic 'new photos' notification body</note>
+      </trans-unit>
+      <trans-unit id="Sponsored">
+        <source>Sponsored</source>
+        <target>Sponset</target>
+        <note>ad sponsred label</note>
+      </trans-unit>
+      <trans-unit id="Tap to refresh the feed">
+        <source>Tap to refresh the feed</source>
+        <target>Takk for å oppdatere feedet</target>
+        <note>internal notification</note>
+      </trans-unit>
+      <trans-unit id="Thank you for your support 😊">
+        <source>Thank you for your support 😊</source>
+        <target>Takk for støtten din</target>
+        <note>alert body after purchasing background premium</note>
+      </trans-unit>
+      <trans-unit id="Thanks!">
+        <source>Thanks!</source>
+        <target>Takk!</target>
+        <note>alert title</note>
+      </trans-unit>
+      <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
+        <source>The button below will open Background's App Store page, where you can rate it.</source>
+        <target>Knappen nedenfor skal åpne Background's App butikkside når du kan vurdere det.</target>
+        <note>description of button - which will open App Store page</note>
+      </trans-unit>
+      <trans-unit id="To save photos give Background access to your Photo Library.">
+        <source>To save photos give Background access to your Photo Library.</source>
+        <target>Til å lagre bilder gir bakgrunns tilgang til fotobiblioteket ditt.</target>
+        <note>Description that inform user that permissions are needed to save photo</note>
+      </trans-unit>
+      <trans-unit id="Touch and hold a photo to save it.">
+        <source>Touch and hold a photo to save it.</source>
+        <target>Trykk og hold på bildet for å lagre det.</target>
+        <note>(Onboarding) Description how to save photo</note>
+      </trans-unit>
+      <trans-unit id="Try again">
+        <source>Try again</source>
+        <target>Prøv igjen</target>
+        <note>Alert action when photos can't be downloaded
+   onboarding - error button action</note>
+      </trans-unit>
+      <trans-unit id="Try the Search for free">
+        <source>Try the Search for free</source>
+        <target>Prøv gratis søket</target>
+        <note>Search demo button title</note>
+      </trans-unit>
+      <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
+        <source>Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.</source>
+        <target>Dessvare, jeg kan ikke lagre dette bildet i ditt bibliotek. Sjekk telefoninnstillinger. Jeg tror at jeg ikke har tilgang til bildene dine.</target>
+        <note>alert error body</note>
+      </trans-unit>
+      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
+        <source>With Background Premium you get:
+No ads.
+Search.
+With this one time in-app purchase you help me keep the app alive. Thanks!</source>
+        <target>Med Background Premium:
+Ingen annonser.
+Søkfunksjon.
+Som dette en gang i appen hjelper du meg å forlot app i live. Takk!</target>
+        <note>description of in-app purchase</note>
+      </trans-unit>
+      <trans-unit id="🙈 Oh no!">
+        <source>🙈 Oh no!</source>
+        <target>🙈 Å nei!</target>
+        <note>alert error title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
