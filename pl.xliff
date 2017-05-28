@@ -174,18 +174,19 @@ najpiękniejsze zdjęcia.</target>
         <target>Wygląda na to, że nie zakupiono Background Premium 😇</target>
         <note>error localized description</note>
       </trans-unit>
-      <trans-unit id="Most Popular">
-        <source>Most Popular</source>
-        <target>Najpopularniejsze</target>
-        <note>(Settings) Screen order - title</note>
-      </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
         <target>Nowe zdjęcia są dostępne</target>
         <note>internal notification</note>
       </trans-unit>
+      <trans-unit id="No results">
+        <source>No results</source>
+        <target>Brak wyników</target>
+        <note>Info, when there is no results after searching</note>
+      </trans-unit>
       <trans-unit id="Nooooo :(">
         <source>Nooooo :(</source>
+        <target>Nieeee :(</target>
         <note>Alert title</note>
       </trans-unit>
       <trans-unit id="Nothing to restore">
@@ -243,7 +244,7 @@ najpiękniejsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Restore purchase">
         <source>Restore purchase</source>
-        <target>Przywróć Background Premium</target>
+        <target>Przwyróć Background Premium</target>
         <note>restore background premium button
    Restore Background Premium button title
    restore Background Premium purchase button</note>
@@ -321,7 +322,7 @@ najpiękniejsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>Daj Background dostęp do Biblioteki Zdjęć, zeby zapisywać zdjęcia.</target>
+        <target>Daj Background dostęp do Biblioteki Zdjęć by móc zapisywać zdjęcia.</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">

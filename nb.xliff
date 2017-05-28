@@ -23,12 +23,12 @@
     <body>
       <trans-unit id="Can't download info from Unsplash">
         <source>Can't download info from Unsplash</source>
-        <target></target>
+        <target/>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Can't download the latest photo">
         <source>Can't download the latest photo</source>
-        <target></target>
+        <target/>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Curated">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="Downloading info from Unsplash">
         <source>Downloading info from Unsplash</source>
-        <target></target>
+        <target/>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Downloading photo">
         <source>Downloading photo</source>
-        <target></target>
+        <target/>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Latest">
@@ -173,15 +173,14 @@ handler om/er vakre bilder.</target>
         <target>Du ser ut som du ikke har kjøpt en premium Background 😇</target>
         <note>error localized description</note>
       </trans-unit>
-      <trans-unit id="Most Popular">
-        <source>Most Popular</source>
-        <target>Mest populære</target>
-        <note>(Settings) Screen order - title</note>
-      </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
         <target>Nye tilgjengelige bilder</target>
         <note>internal notification</note>
+      </trans-unit>
+      <trans-unit id="No results">
+        <source>No results</source>
+        <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
         <source>Nooooo :(</source>
@@ -316,7 +315,7 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target>Knappen nedenfor skal åpne Background's App butikkside når du kan vurdere det.</target>
+        <target>Knappen nedenfor skal åpne Background's App butikkside når du kan vurdere det</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
