@@ -103,6 +103,10 @@
         <target></target>
         <note>button title</note>
       </trans-unit>
+      <trans-unit id="Acknowledgements">
+          <source>Acknowledgements</source>
+          <note>Settings - section title</note>
+      </trans-unit>
       <trans-unit id="App Store">
           <!--    Image 4b      -->
         <source>App Store</source>

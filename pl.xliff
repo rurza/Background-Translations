@@ -96,6 +96,11 @@
         <target>Dostęp do Zdjęć</target>
         <note>button title</note>
       </trans-unit>
+      <trans-unit id="Acknowledgements">
+          <source>Acknowledgements</source>
+          <target>Podziękowania</target>
+          <note>Settings - section title</note>
+      </trans-unit>
       <trans-unit id="App Store">
         <source>App Store</source>
         <note>Settings - section title</note>
