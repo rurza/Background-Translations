@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  //
-        Info.plist
+ Info.plist
  //
  
  // 3D Touch
@@ -11,9 +12,8 @@
  //Photo Library permissions alert
  NSPhotoLibraryUsageDescription = "请授权Background访问你的相册以保存壁纸.";
  -->
-<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="generic">
+  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="zh">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -30,7 +30,7 @@
     </body>
   </file>
   <!--    iOS Widget info    -->
-  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="generic">
+  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -73,13 +73,13 @@
     </body>
   </file>
   <!--    END iOS Widget info    -->
-  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="generic">
+  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="zh">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body/>
   </file>
-  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="generic">
+  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="zh">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -92,7 +92,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="generic">
+  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -126,7 +126,7 @@
         <source>Background
 is all about beautiful photos.</source>
         <target>Background
-            包含了所有漂亮的壁纸</target>
+包含了所有漂亮的壁纸</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -399,9 +399,9 @@ No ads.
 Search.
 With this one time in-app purchase you help me keep the app alive. Thanks!</source>
         <target>拥有Background会员你会获得以下特权:
-            去除广告.
-            使用搜索.
-            购买会员是一次性付费，您的支持将是我维护这个App的最大动力，谢谢!</target>
+去除广告.
+使用搜索.
+购买会员是一次性付费，您的支持将是我维护这个App的最大动力，谢谢!</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
