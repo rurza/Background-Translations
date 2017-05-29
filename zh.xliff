@@ -4,12 +4,12 @@
  //
  
  // 3D Touch
- UIApplicationShortcutItemTitleLatest = "Latest";
- UIApplicationShortcutItemTitleCurated = "Curated";
- UIApplicationShortcutItemTitleSearch = "Search";
+ UIApplicationShortcutItemTitleLatest = "最新";
+ UIApplicationShortcutItemTitleCurated = "精选";
+ UIApplicationShortcutItemTitleSearch = "搜索";
  //
  //Photo Library permissions alert
- NSPhotoLibraryUsageDescription = "Give Background Access to your Photo Library to save images.";
+ NSPhotoLibraryUsageDescription = "请授权Background访问你的相册以保存壁纸.";
  -->
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
@@ -37,37 +37,37 @@
     <body>
       <trans-unit id="Can't download info from Unsplash">
         <source>Can't download info from Unsplash</source>
-        <target></target>
+        <target>从Unsplash下载信息失败</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Can't download the latest photo">
         <source>Can't download the latest photo</source>
-        <target></target>
+        <target>无法下载最新壁纸</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Curated">
         <source>Curated</source>
-        <target></target>
+        <target>精选</target>
         <note>widget - button title</note>
       </trans-unit>
       <trans-unit id="Downloading info from Unsplash">
         <source>Downloading info from Unsplash</source>
-        <target></target>
+        <target>正在从Unsplash下载信息</target>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Downloading photo">
         <source>Downloading photo</source>
-        <target></target>
+        <target>正在下载壁纸</target>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Latest">
         <source>Latest</source>
-        <target></target>
+        <target>最新</target>
         <note>widget - button title</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
-        <target></target>
+        <target>搜索</target>
         <note>widget - button title</note>
       </trans-unit>
     </body>
@@ -100,7 +100,7 @@
       <trans-unit id="Access Photo Library">
           <!--    Image 1b      -->
         <source>Access Photo Library</source>
-        <target></target>
+        <target>授权相册权限</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="App Store">
@@ -111,104 +111,105 @@
       <trans-unit id="Background Premium">
           <!--    Image 4a      -->
         <source>Background Premium</source>
+        <target>Background 会员</target>
         <note>button title that purchase Background Premium
    Settings - section title</note>
       </trans-unit>
       <trans-unit id="Background photos use %@ on disk.">
           <!--    Image 4b      -->
         <source>Background photos use %@ on disk.</source>
-        <target></target>
+        <target>Background的缓存已经占用了 %@ 空间.</target>
         <note>Disk usage information. %@ is usage</note>
       </trans-unit>
       <trans-unit id="Background\nis all about beautiful photos.">
           <!--    Image 1a      -->
         <source>Background
 is all about beautiful photos.</source>
-        <target></target>
+        <target>Background
+            包含了所有漂亮的壁纸</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
           <!--    Image 4b      -->
         <source>Cache</source>
+        <target>缓存</target>
         <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="Can't complete transaction">
         <source>Can't complete transaction</source>
-        <target></target>
+        <target>无法完成交易</target>
         <note>alert title
    in-app purchase error title</note>
       </trans-unit>
       <trans-unit id="Change feed by swiping left or right.">
           <!--    Image 1e      -->
         <source>Change feed by swiping left or right.</source>
-        <target></target>
+        <target>你可以向左或右滑动来更改类型</target>
         <note>Description how to change the feed (in onboarding)</note>
       </trans-unit>
       <trans-unit id="Check out new photos!">
         <source>Check out new photos!</source>
-        <target></target>
+        <target>来看下我们的新壁纸吧！</target>
         <note>new photos availale notification title</note>
       </trans-unit>
       <trans-unit id="Clear Cache">
           <!--    Image 4b      -->
         <source>Clear Cache</source>
-        <target></target>
+        <target>清理缓存</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Curated">
         <source>Curated</source>
         <!--    Image 4a      -->
-        <target></target>
+        <target>精选</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Have Fun!">
           <!--    Image 2a      -->
         <source>Have Fun!</source>
-        <target></target>
+        <target>祝你使用愉快！</target>
         <note>Search demo turned on - alert title</note>
       </trans-unit>
       <trans-unit id="I can't download photos.">
         <source>I can't download photos.</source>
-        <target></target>
+        <target>我无法下载这张壁纸</target>
         <note>onboarding - error body</note>
       </trans-unit>
       <trans-unit id="I will, later">
         <source>I will, later</source>
-        <target></target>
+        <target>我会的，一会再说</target>
         <note>alert error button action</note>
       </trans-unit>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
           <!--    Image 1b      -->
         <source>It can send you notifications when there are some cool new photos.</source>
-        <target></target>
+        <target>如果你想要在第一时间收到我们最酷的新壁纸</target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
           <!--    Image 4a      -->
         <source>Latest</source>
-        <target></target>
+        <target>最新</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Let's go!">
           <!--    Image 1e      -->
         <source>Let's go!</source>
-        <target></target>
+        <target>我们开始吧!</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
         <source>Looks like you haven't bought Background Premium 😇</source>
-        <target></target>
+        <target>看起来好像您没有购买过我们的Background会员哦😇</target>
         <note>error localized description</note>
       </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
-        <target></target>
+        <target>有新壁纸可更新</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="No results">
-          <!--    Image 2c      -->
           <source>No results</source>
-          <target></target>
           <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
@@ -217,64 +218,68 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Nothing to restore">
         <source>Nothing to restore</source>
-        <target></target>
+        <target>没有可恢复的内购</target>
         <note>Error title</note>
       </trans-unit>
       <trans-unit id="Now you can use the Search for a day">
         <!--    Image 2a      -->
         <source>Now you can use the Search for a day</source>
-        <target></target>
+        <target>现在你可以免费试用一天搜索功能</target>
         <note>Search demo turned on - alert body</note>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
+        <target>好</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Oh no!">
         <source>Oh no!</source>
-        <target></target>
+        <target>不好意思！</target>
         <note>onboarding - error title</note>
       </trans-unit>
       <trans-unit id="Oh no! Can't download photos">
         <source>Oh no! Can't download photos</source>
-        <target></target>
+        <target>不好意思，不能下载这张壁纸</target>
         <note>dashboard - error</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
-        <target></target>
+        <target>打开设置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Premium – %@">
           <!--    Image 4a      -->
         <source>Premium – %@</source>
+        <target>会员 – %@</target>
         <note>Button title, where Premium is constant and %@ is localized price
    purchase Background Premium, %@ is price</note>
       </trans-unit>
       <trans-unit id="Purchase was deferred">
         <source>Purchase was deferred</source>
-        <target></target>
+        <target>您的购买已被延迟</target>
         <note>alert with error title
    in-app purchase was deferred, for exmaple phote has parental control turned on and user can't complete purchase</note>
       </trans-unit>
       <trans-unit id="Purchase was deferred. I will disable buttons for some time">
         <source>Purchase was deferred. I will disable buttons for some time</source>
+        <target>您的购买已被延迟，我会禁用这个按钮一段时间</target>
         <note>Error description</note>
       </trans-unit>
       <trans-unit id="Purchase was deferred. I will disable buttons.">
         <source>Purchase was deferred. I will disable buttons.</source>
+        <target>您的购买已被延迟，我会禁用这个按钮</target>
         <note>alert with error body</note>
       </trans-unit>
       <trans-unit id="Rate on the App Store">
           <!--    Image 4b      -->
         <source>Rate on the App Store</source>
-        <target></target>
+        <target>前往App Store评分</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Restore purchase">
           <!--    Image 4b      -->
         <source>Restore purchase</source>
-        <target></target>
+        <target>恢复内购</target>
         <note>restore background premium button
    Restore Background Premium button title
    restore Background Premium purchase button</note>
@@ -282,109 +287,109 @@ is all about beautiful photos.</source>
       <trans-unit id="SAVED">
           <!--    Image 3      -->
         <source>SAVED</source>
-        <target></target>
+        <target>已保存</target>
         <note>photo was saved to library</note>
       </trans-unit>
       <trans-unit id="Screens Order">
           <!--    Image 4a      -->
         <source>Screens Order</source>
-        <target>w</target>
+        <target>显示顺序</target>
         <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="Search">
           <!--    Image 2b/4a      -->
         <source>Search</source>
-        <target></target>
+        <target>搜索</target>
         <note>(Settings) Screen order - title
    search text field</note>
       </trans-unit>
       <trans-unit id="Search requires Background Premium.">
           <!--    Image 2      -->
         <source>Search requires Background Premium.</source>
-        <target></target>
+        <target>搜索功能仅对Background会员开放.</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
         <source>Send Notifications</source>
-        <target></target>
+        <target>授权推送权限</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Settings">
           <!--    Image 4a      -->
         <source>Settings</source>
-        <target></target>
+        <target>设置</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in curated photos feed">
         <source>Some great, new photos are available in curated photos feed</source>
-        <target></target>
+        <target>一些很棒的新壁纸现在已经在精选壁纸中更新</target>
         <note>Title of notification body, when new photos are available in curated photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in latest photos feed">
         <source>Some great, new photos are available in latest photos feed</source>
-        <target></target>
+        <target>一些很棒的新壁纸现在已经在最新壁纸中更新</target>
         <note>Title of notification body, when new photos are available in latest photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available 🌊">
         <source>Some great, new photos are available 🌊</source>
-        <target></target>
+        <target>一些很棒的新壁纸现在已经可以更新🌊</target>
         <note>Generic 'new photos' notification body</note>
       </trans-unit>
       <trans-unit id="Sponsored">
           <!--    Image 5      -->
         <source>Sponsored</source>
-        <target></target>
+        <target>赞助商</target>
         <note>ad sponsred label</note>
       </trans-unit>
       <trans-unit id="Tap to refresh the feed">
           <!--    Image 6      -->
         <source>Tap to refresh the feed</source>
-        <target></target>
+        <target>点击刷新列表</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="Thank you for your support 😊">
         <source>Thank you for your support 😊</source>
-        <target></target>
+        <target>谢谢你的支持😊</target>
         <note>alert body after purchasing background premium</note>
       </trans-unit>
       <trans-unit id="Thanks!">
         <source>Thanks!</source>
-        <target></target>
+        <target>谢谢！</target>
         <note>alert title</note>
       </trans-unit>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
           <!--    Image 4b      -->
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target></target>
+        <target>下面的按钮将会前往Background的App Store页面，你可以在那进行评分</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
           <!--    Image 1b      -->
         <source>To save photos give Background access to your Photo Library.</source>
-        <target></target>
+        <target>想要保存壁纸，请授权Background访问你的相册</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
           <!--    Image 1d      -->
         <source>Touch and hold a photo to save it.</source>
-        <target></target>
+        <target>长按壁纸即可保存壁纸</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
         <source>Try again</source>
-        <target></target>
+        <target>再试一次</target>
         <note>Alert action when photos can't be downloaded
    onboarding - error button action</note>
       </trans-unit>
       <trans-unit id="Try the Search for free">
           <!--    Image 2      -->
         <source>Try the Search for free</source>
-        <target></target>
+        <target>免费试用搜索功能</target>
         <note>Search demo button title</note>
       </trans-unit>
       <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
         <source>Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.</source>
-        <target></target>
+        <target>有一个坏消息，我不能把壁纸保存到你的相册，请检查设置，我想你没有给Background授权相册访问权</target>
         <note>alert error body</note>
       </trans-unit>
       <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
@@ -393,12 +398,15 @@ is all about beautiful photos.</source>
 No ads.
 Search.
 With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target></target>
+        <target>拥有Background会员你会获得以下特权:
+            去除广告.
+            使用搜索.
+            购买会员是一次性付费，您的支持将是我维护这个App的最大动力，谢谢!</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
-        <target></target>
+        <target>🙈不好意思！</target>
         <note>alert error title</note>
       </trans-unit>
     </body>

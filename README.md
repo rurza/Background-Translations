@@ -46,6 +46,15 @@ This should be translated too 😚
 
 #### Let me know if you want to be in acknowledgements (will be in the app itself, in Settings)
 
+### Acknowledgements
+Chinese: 
+
+Polish: Adam Różyński
+
+Norwegian: Karolina G.
+
+Italian:
+
 
 
 Thanks a lot! Any questions?
