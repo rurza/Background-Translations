@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+ //
+ Info.plist
+ //
+ 
+ // 3D Touch
+ UIApplicationShortcutItemTitleLatest = "Nyeste";
+ UIApplicationShortcutItemTitleCurated = "Kuratert";
+ UIApplicationShortcutItemTitleSearch = "Søk";
+ NSPhotoLibraryUsageDescription = "Til å lagre bilder gir bakgrunns tilgang til fotobiblioteket ditt.";
+ -->
+
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="nb">
     <header>
@@ -23,12 +35,12 @@
     <body>
       <trans-unit id="Can't download info from Unsplash">
         <source>Can't download info from Unsplash</source>
-        <target/>
+        <target>Kan ikke laste ned info fra Unsplash</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Can't download the latest photo">
         <source>Can't download the latest photo</source>
-        <target/>
+        <target>Kan ikke laste ned det nyeste bildet</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Curated">
@@ -38,7 +50,7 @@
       </trans-unit>
       <trans-unit id="Downloading info from Unsplash">
         <source>Downloading info from Unsplash</source>
-        <target/>
+        <target>Laster inn informasjon fra Unsplash</target>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Downloading photo">
@@ -105,7 +117,7 @@
         <source>Background
 is all about beautiful photos.</source>
         <target>Background
-handler om/er vakre bilder.</target>
+er det vakreste bilder.</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -155,7 +167,7 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
         <source>It can send you notifications when there are some cool new photos.</source>
-        <target>Jeg kan sende deg beskjed når det er noen kule bilder.</target>
+        <target>Man kan sende deg beskjed når det er noe kule bilder.</target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
@@ -165,7 +177,7 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="Let's go!">
         <source>Let's go!</source>
-        <target>Begynn!</target>
+        <target>La gå!</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
@@ -180,6 +192,7 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="No results">
         <source>No results</source>
+        <target>Ingen resultater</target>
         <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
@@ -279,18 +292,18 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in curated photos feed">
         <source>Some great, new photos are available in curated photos feed</source>
-        <target>Noen nye flotte bilder er tilgjengelige i kuraterte bilder</target>
+        <target>Noe nye flotte bilder er tilgjengelige i kuraterte bilder</target>
         <note>Title of notification body, when new photos are available in curated photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in latest photos feed">
         <source>Some great, new photos are available in latest photos feed</source>
-        <target>Noen nye flotte bilder er tilgjengelige i de nyeste bildene
+        <target>Noe nye flotte bilder er tilgjengelige i de nyeste bildene
             feedet</target>
         <note>Title of notification body, when new photos are available in latest photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available 🌊">
         <source>Some great, new photos are available 🌊</source>
-        <target>Noen nye flotte bilder er tilgjengelige 🌊</target>
+        <target>Noe nye flotte bilder er tilgjengelige 🌊</target>
         <note>Generic 'new photos' notification body</note>
       </trans-unit>
       <trans-unit id="Sponsored">
@@ -315,7 +328,7 @@ handler om/er vakre bilder.</target>
       </trans-unit>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target>Knappen nedenfor skal åpne Background's App butikkside når du kan vurdere det</target>
+        <target>Knappen nedenfor skal åpne Background's App butikkside, der kan du rangere det.</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">

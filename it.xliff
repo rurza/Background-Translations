@@ -117,7 +117,8 @@
       <trans-unit id="Background\nis all about beautiful photos.">
         <source>Background
 is all about beautiful photos.</source>
-        <target>Background è tutto basato su foto stupende.</target>
+        <target>Background
+è tutto basato su foto stupende.</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
