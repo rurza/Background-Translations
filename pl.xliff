@@ -120,7 +120,7 @@
 is all about beautiful photos.</source>
         <target>Background
 to
-najpiękniejsze zdjęcia.</target>
+najlepsze zdjęcia.</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -341,7 +341,7 @@ najpiękniejsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
         <source>Touch and hold a photo to save it.</source>
-        <target>Dotknij i przytrzymaj, żeby zapisać zdjęcie</target>
+        <target>Dotknij i przytrzymaj, żeby zapisać zdjęcie.</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
