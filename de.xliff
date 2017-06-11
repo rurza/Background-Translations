@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
  
- UIApplicationShortcutItemTitleLatest = "Najnowsze";
- UIApplicationShortcutItemTitleCurated = "Wybrane";
- UIApplicationShortcutItemTitleSearch = "Szukaj";
- NSPhotoLibraryUsageDescription = "Background potrzebuje dostępu do Biblioteki Zdjęć by móc zapisywać zdjęcia.";
+ UIApplicationShortcutItemTitleLatest = "Neuste";
+ UIApplicationShortcutItemTitleCurated = "Ausgewählte";
+ UIApplicationShortcutItemTitleSearch = "Suchen";
+ NSPhotoLibraryUsageDescription = "Background benötigt Zugang zur Mediathek um Fotos zu speichern.";
  
  
  -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -25,29 +25,26 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Background Widget/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body>
       <trans-unit id="Can't download info from Unsplash">
         <source>Can't download info from Unsplash</source>
-        <target>Nie mogę pobrać info z Unsplash</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Can't download the latest photo">
         <source>Can't download the latest photo</source>
-        <target>Nie mogę pobrać najnowszego zdjęcia</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Curated">
         <source>Curated</source>
-        <target>Wybrane</target>
+        <target>Ausgewählte</target>
         <note>widget - button title</note>
       </trans-unit>
       <trans-unit id="Downloading info from Unsplash">
         <source>Downloading info from Unsplash</source>
-        <target>Pobieram info z Unsplash</target>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Downloading photo">
@@ -57,23 +54,23 @@
       </trans-unit>
       <trans-unit id="Latest">
         <source>Latest</source>
-        <target>Najnowsze</target>
+        <target>Neuste</target>
         <note>widget - button title</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
-        <target>Szukaj</target>
+        <target>Suchen</target>
         <note>widget - button title</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Background/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body/>
   </file>
-  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Background/Info.plist" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
@@ -86,19 +83,19 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="pl">
+  <file original="Background/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
     </header>
     <body>
       <trans-unit id="Access Photo Library">
         <source>Access Photo Library</source>
-        <target>Dostęp do Zdjęć</target>
+        <target>Zugang zu Mediathek</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Acknowledgements">
           <source>Acknowledgements</source>
-          <target>Podziękowania</target>
+          <target>Herzlichen Dank</target>
           <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="App Store">
@@ -112,15 +109,15 @@
       </trans-unit>
       <trans-unit id="Background photos use %@ on disk.">
         <source>Background photos use %@ on disk.</source>
-        <target>Zdjęcia z Background zajmują %@ na dysku.</target>
+        <target>Backgrounds Fotos brauchen %@ Platz auf der Festplatte.</target>
         <note>Disk usage information. %@ is usage</note>
       </trans-unit>
       <trans-unit id="Background\nis all about beautiful photos.">
         <source>Background
 is all about beautiful photos.</source>
         <target>Background
-to
-najlepsze zdjęcia.</target>
+bedeutet die
+allerbesten Fotos.</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -129,88 +126,88 @@ najlepsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Can't complete transaction">
         <source>Can't complete transaction</source>
-        <target>Nie mogę dokończyć transakcji</target>
+        <target>Bezahlung nicht beendet</target>
         <note>alert title
    in-app purchase error title</note>
       </trans-unit>
       <trans-unit id="Change feed by swiping left or right.">
         <source>Change feed by swiping left or right.</source>
-        <target>Zmień feed przewijając palcem w lewo/prawo.</target>
+        <target>Ändere feed bei Scrollen mit Fingern nach links und rechts.</target>
         <note>Description how to change the feed (in onboarding)</note>
       </trans-unit>
       <trans-unit id="Check out new photos!">
         <source>Check out new photos!</source>
-        <target>Sprawdź najnowsze zdjęcia!</target>
+        <target>Check die neusten Fotos!</target>
         <note>new photos availale notification title</note>
       </trans-unit>
       <trans-unit id="Clear Cache">
         <source>Clear Cache</source>
-        <target>Wyczyść Cache</target>
+        <target>Lösche Cache</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Curated">
         <source>Curated</source>
-        <target>Wybrane</target>
+        <target>Ausgewählte</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Have Fun!">
         <source>Have Fun!</source>
-        <target>Dobrej zabawy!</target>
+        <target>Viel Spass!</target>
         <note>Search demo turned on - alert title</note>
       </trans-unit>
       <trans-unit id="I can't download photos.">
         <source>I can't download photos.</source>
-        <target>Nie mogę pobrać zdjęć</target>
+        <target>Fotos downloaden nicht möglich.</target>
         <note>onboarding - error body</note>
       </trans-unit>
       <trans-unit id="I will, later">
         <source>I will, later</source>
-        <target>Później</target>
+        <target>Später</target>
         <note>alert error button action</note>
       </trans-unit>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
         <source>It can send you notifications when there are some cool new photos.</source>
-        <target>Mogę wysyłać Ci powiadomienia gdy pojawią się nowe, fajne zdjęcia.</target>
+        <target>Ich kann Dir Mitteilungen senden wenn die neusten Fotos erscheinen.</target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
         <source>Latest</source>
-        <target>Najnowsze</target>
+        <target>Neuste</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Let's go!">
         <source>Let's go!</source>
-        <target>Zaczynamy</target>
+        <target>Start</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
         <source>Looks like you haven't bought Background Premium 😇</source>
-        <target>Wygląda na to, że nie zakupiono Background Premium 😇</target>
+        <target>Background Premium wurde nicht gekauft 😇</target>
         <note>error localized description</note>
       </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
-        <target>Nowe zdjęcia są dostępne</target>
+        <target>Neue Fotos sind da</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="No results">
         <source>No results</source>
-        <target>Brak wyników</target>
+        <target>Keine Resultate</target>
         <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
         <source>Nooooo :(</source>
-        <target>Nieeee :(</target>
+        <target>Neeein... :(</target>
         <note>Alert title</note>
       </trans-unit>
       <trans-unit id="Nothing to restore">
         <source>Nothing to restore</source>
-        <target>Nie ma co przywracać</target>
+        <target>Es gibt nichts zum Wiederherstellen</target>
         <note>Error title</note>
       </trans-unit>
       <trans-unit id="Now you can use the Search for a day">
         <source>Now you can use the Search for a day</source>
-        <target>Teraz możesz używać funkcji Szukaj przez jeden dzień.</target>
+        <target>Jetzt verfuegst Du über Suchfunktion für einen Tag</target>
         <note>Search demo turned on - alert body</note>
       </trans-unit>
       <trans-unit id="OK">
@@ -219,17 +216,17 @@ najlepsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Oh no!">
         <source>Oh no!</source>
-        <target>O nie!</target>
+        <target>Oh, nein!</target>
         <note>onboarding - error title</note>
       </trans-unit>
       <trans-unit id="Oh no! Can't download photos">
         <source>Oh no! Can't download photos</source>
-        <target>O nie! Nie mogę pobrać zdjęć</target>
+        <target>Oh, nein! Downloaden von Fotos unmöglich</target>
         <note>dashboard - error</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
-        <target>Otwórz Ustawienia</target>
+        <target>Einstellungen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Premium – %@">
@@ -239,7 +236,7 @@ najlepsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Purchase was deferred">
         <source>Purchase was deferred</source>
-        <target>Zakup został opóźniony</target>
+        <target>Bezahlung wurde verschoben</target>
         <note>alert with error title
    in-app purchase was deferred, for exmaple phote has parental control turned on and user can't complete purchase</note>
       </trans-unit>
@@ -253,111 +250,111 @@ najlepsze zdjęcia.</target>
       </trans-unit>
       <trans-unit id="Rate on the App Store">
         <source>Rate on the App Store</source>
-        <target>Oceń w App Store</target>
+        <target>Hinterlasse die Kundenrezension</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Restore purchase">
         <source>Restore purchase</source>
-        <target>Przywróć Background Premium</target>
+        <target>Background Premium wiederherstellen</target>
         <note>restore background premium button
    Restore Background Premium button title
    restore Background Premium purchase button</note>
       </trans-unit>
       <trans-unit id="SAVED">
         <source>SAVED</source>
-        <target>ZAPISANO</target>
+        <target>GESPEICHERT</target>
         <note>photo was saved to library</note>
       </trans-unit>
       <trans-unit id="Screens Order">
         <source>Screens Order</source>
-        <target>Kolejność ekranów</target>
+        <target>Reihenfolge der Bildschirme</target>
         <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
-        <target>Szukaj</target>
+        <target>Suchen</target>
         <note>(Settings) Screen order - title
    search text field</note>
       </trans-unit>
       <trans-unit id="Search requires Background Premium.">
         <source>Search requires Background Premium.</source>
-        <target>Szukanie wymaga Background Premium.</target>
+        <target>Suchen benötige Background Premium.</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
         <source>Send Notifications</source>
-        <target>Wysyłaj powiadomienia</target>
+        <target>Sende Mitteilungen</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
-        <target>Ustawienia</target>
+        <target>Einstellungen</target>
         <note>(Settings) Screen order - title</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in curated photos feed">
         <source>Some great, new photos are available in curated photos feed</source>
-        <target>Nowe, wspaniałe zdjęcia są dostepne na ekranie wybranych zdjęć</target>
+        <target>Neuste Fotos zugänglich bei "Ausgewählte Fotos"</target>
         <note>Title of notification body, when new photos are available in curated photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in latest photos feed">
         <source>Some great, new photos are available in latest photos feed</source>
-        <target>Pojawiły się wspaniałe zdjęcia na ekranie nowych zdjęć</target>
+        <target>Neuste Fotos zugänglich bei "Neue Fotos"</target>
         <note>Title of notification body, when new photos are available in latest photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available 🌊">
         <source>Some great, new photos are available 🌊</source>
-        <target>Nowe, fajoskie zdjęcia są dostępne 🌊</target>
+        <target>Neuste Fotos sind da 🌊</target>
         <note>Generic 'new photos' notification body</note>
       </trans-unit>
       <trans-unit id="Sponsored">
         <source>Sponsored</source>
-        <target>Reklama</target>
+        <target>Werbung</target>
         <note>ad sponsred label</note>
       </trans-unit>
       <trans-unit id="Tap to refresh the feed">
         <source>Tap to refresh the feed</source>
-        <target>Stuknij, żeby odświeżyć</target>
+        <target>Tipp um zu aktualisieren</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="Thank you for your support 😊">
         <source>Thank you for your support 😊</source>
-        <target>Dziękuję za Twoje wsparcie 😊</target>
+        <target>Vielen Dank für Deine Unterstüzung 😊</target>
         <note>alert body after purchasing background premium</note>
       </trans-unit>
       <trans-unit id="Thanks!">
         <source>Thanks!</source>
-        <target>Dzięki!</target>
+        <target>Danke!</target>
         <note>alert title</note>
       </trans-unit>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target>Przycisk poniżej zabierze Cię do App Store, gdzie możesz ocenić apkę.</target>
+        <target>Die untere Taste öffnet Background's App Store Seite. Bitte hinterlasse die Kundenrezension.</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>Daj Background dostęp do Biblioteki Zdjęć by móc zapisywać zdjęcia.</target>
+        <target>Um Fotos zu speichern gib Background den Zugang zu Deiner Mediathek.</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
         <source>Touch and hold a photo to save it.</source>
-        <target>Dotknij i przytrzymaj, żeby zapisać zdjęcie.</target>
+        <target>Tipp und halte um zu speichern.</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
         <source>Try again</source>
-        <target>Spróbuj ponownie</target>
+        <target>Versuche noch mal</target>
         <note>Alert action when photos can't be downloaded
    onboarding - error button action</note>
       </trans-unit>
       <trans-unit id="Try the Search for free">
         <source>Try the Search for free</source>
-        <target>Wypróbuj szukanie za darmo</target>
+        <target>Versuche Suchfunktion umsonst</target>
         <note>Search demo button title</note>
       </trans-unit>
       <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
         <source>Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.</source>
-        <target>Niestety nie mogę zapisać zdjęcia w Twojej Bibliotece Zdjęć. Sprawdź Ustawienia telefonu – myślę, że nie mam dostępu do Zdjęć.</target>
+        <target>Es tut mit Leid, es ist nicht möglich Deine Fotos in Deiner Mediathek zu speichern.</target>
         <note>alert error body</note>
       </trans-unit>
       <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
@@ -365,15 +362,15 @@ najlepsze zdjęcia.</target>
 No ads.
 Search.
 With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target>Z Background Premium:
-Nie ma reklam.
-Jest funkcja Szukaj.
-Z tym jednorazowym zakupem pomagasz mi utrzymać apkę. Dzięki!</target>
+        <target>Mit Background Premium:
+Ohne Werbung.
+Es gibt eine Suchfunktion.
+Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
-        <target>🙈 O nie!</target>
+        <target>🙈 Oh, nein!</target>
         <note>alert error title</note>
       </trans-unit>
     </body>
