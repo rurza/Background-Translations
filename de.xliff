@@ -49,7 +49,6 @@
       </trans-unit>
       <trans-unit id="Downloading photo">
         <source>Downloading photo</source>
-        <target>Pobieram zdjęcie</target>
         <note>widget - info</note>
       </trans-unit>
       <trans-unit id="Latest">
