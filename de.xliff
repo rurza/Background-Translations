@@ -4,7 +4,7 @@
  UIApplicationShortcutItemTitleLatest = "Neuste";
  UIApplicationShortcutItemTitleCurated = "Ausgewählte";
  UIApplicationShortcutItemTitleSearch = "Suchen";
- NSPhotoLibraryUsageDescription = "Background benötigt Zugang zur Mediathek um Fotos zu speichern.";
+ NSPhotoLibraryUsageDescription = "Background benötigt den Zugang zur Mediathek um Fotos zu speichern.";
  
  
  -->
@@ -90,7 +90,7 @@
     <body>
       <trans-unit id="Access Photo Library">
         <source>Access Photo Library</source>
-        <target>Zugang zu Mediathek</target>
+        <target>Zugang zur Mediathek</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Acknowledgements">
@@ -207,7 +207,7 @@ allerbesten Fotos.</target>
       </trans-unit>
       <trans-unit id="Now you can use the Search for a day">
         <source>Now you can use the Search for a day</source>
-        <target>Jetzt verfuegst Du über Suchfunktion für einen Tag</target>
+        <target>Jetzt verfügst Du über Suchfunktion für einen Tag</target>
         <note>Search demo turned on - alert body</note>
       </trans-unit>
       <trans-unit id="OK">
@@ -278,7 +278,7 @@ allerbesten Fotos.</target>
       </trans-unit>
       <trans-unit id="Search requires Background Premium.">
         <source>Search requires Background Premium.</source>
-        <target>Suchen benötige Background Premium.</target>
+        <target>Um zu suchen kaufe Background Premium.</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
@@ -333,12 +333,12 @@ allerbesten Fotos.</target>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>Um Fotos zu speichern gib Background den Zugang zu Deiner Mediathek.</target>
+        <target>Um Fotos zu speichern gibt Background den Zugang zu Deiner Mediathek.</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
         <source>Touch and hold a photo to save it.</source>
-        <target>Tipp und halte um zu speichern.</target>
+        <target>Tipp und halte um photo zu speichern.</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
@@ -365,7 +365,7 @@ With this one time in-app purchase you help me keep the app alive. Thanks!</sour
         <target>Mit Background Premium:
 Ohne Werbung.
 Es gibt eine Suchfunktion.
-Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit</target>
+Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit.</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
