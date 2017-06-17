@@ -24,7 +24,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.10</source>
+        <source>1.11</source>
       </trans-unit>
     </body>
   </file>
@@ -85,7 +85,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.10</source>
+        <source>1.11</source>
       </trans-unit>
     </body>
   </file>

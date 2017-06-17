@@ -25,7 +25,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.10</source>
+        <source>1.11</source>
       </trans-unit>
     </body>
   </file>
@@ -88,7 +88,7 @@
         <source>$(PRODUCT_NAME)</source>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.10</source>
+        <source>1.11</source>
       </trans-unit>
     </body>
   </file>
@@ -141,12 +141,6 @@ is all about beautiful photos.</source>
         <target></target>
         <note>alert title
    in-app purchase error title</note>
-      </trans-unit>
-      <trans-unit id="Change feed by swiping left or right.">
-          <!--    Image 1e      -->
-        <source>Change feed by swiping left or right.</source>
-        <target></target>
-        <note>Description how to change the feed (in onboarding)</note>
       </trans-unit>
       <trans-unit id="Check out new photos!">
         <source>Check out new photos!</source>
