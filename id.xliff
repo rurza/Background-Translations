@@ -105,7 +105,7 @@
       </trans-unit>
       <trans-unit id="Acknowledgements">
           <source>Acknowledgements</source>
-          <target>Penghargaan</target>
+          <target>Penerjemah</target>
           <note>Settings - section title</note>
       </trans-unit>
       <trans-unit id="App Store">
@@ -175,7 +175,7 @@ adalah segala tentang foto-foto yang indah.</target>
       </trans-unit>
       <trans-unit id="I can't download photos.">
         <source>I can't download photos.</source>
-        <target>Saya tidak dapat mendownload foto.</target>
+        <target>Tidak dapat mendownload foto.</target>
         <note>onboarding - error body</note>
       </trans-unit>
       <trans-unit id="I will, later">
@@ -202,8 +202,8 @@ adalah segala tentang foto-foto yang indah.</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
-        <source>Sepertinya kamu belum membeli Background Premium 😇</source>
-        <target></target>
+        <source>Looks like you haven't bought Background Premium 😇</source>
+        <target>Sepertinya kamu belum membeli Background Premium 😇</target>
         <note>error localized description</note>
       </trans-unit>
       <trans-unit id="New photos available">
@@ -224,13 +224,13 @@ adalah segala tentang foto-foto yang indah.</target>
       </trans-unit>
       <trans-unit id="Nothing to restore">
         <source>Nothing to restore</source>
-        <target>Tidak ada yang bisa dipulihkan</target>
+        <target>Tidak ada yang perlu dipulihkan</target>
         <note>Error title</note>
       </trans-unit>
       <trans-unit id="Now you can use the Search for a day">
         <!--    Image 2a      -->
         <source>Now you can use the Search for a day</source>
-        <target>Sekarang kamu bisa menggunakan Pencari selama sehari</target>
+        <target>Sekarang kamu bisa menggunakan fitur Cari selama sehari</target>
         <note>Search demo turned on - alert body</note>
       </trans-unit>
       <trans-unit id="OK">
@@ -310,7 +310,7 @@ adalah segala tentang foto-foto yang indah.</target>
       <trans-unit id="Search requires Background Premium.">
           <!--    Image 2      -->
         <source>Search requires Background Premium.</source>
-        <target>Diperlukan Background Premium untuk menggunakan Pencari.</target>
+        <target>Diperlukan Background Premium untuk menggunakan fitur Cari.</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
@@ -388,7 +388,7 @@ adalah segala tentang foto-foto yang indah.</target>
       <trans-unit id="Try the Search for free">
           <!--    Image 2      -->
         <source>Try the Search for free</source>
-        <target>Coba pencarian secara gratis</target>
+        <target>Coba fitur pencarian secara gratis</target>
         <note>Search demo button title</note>
       </trans-unit>
       <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
@@ -404,7 +404,7 @@ Search.
 With this one time in-app purchase you help me keep the app alive. Thanks!</source>
         <target>Dengan Background Premium kamu mendapatkan:
 Bebas iklan.
-Pencari.
+Fitur Pencarian.
 Dengan pembelian sekali saja kamu telah membantu kami mempertahankan aplikasi ini. Terima kasih!</target>
         <note>description of in-app purchase</note>
       </trans-unit>
