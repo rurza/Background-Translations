@@ -381,6 +381,10 @@ Som dette en gang i appen hjelper du meg å forlot app i live. Takk!</target>
           <source>Want to help translating the app into your language? Need a help?</source>
           <note>link to github repo with translations</note>
       </trans-unit>
+      <trans-unit id="Contact">
+          <source>Contact</source>
+          <note>link whoch will open browser</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

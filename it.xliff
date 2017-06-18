@@ -382,6 +382,10 @@ Con questo acquisto in-app mi aiuti a mantenere in vita questa app. Grazie!</tar
           <source>Want to help translating the app into your language? Need a help?</source>
           <note>link to github repo with translations</note>
       </trans-unit>
+      <trans-unit id="Contact">
+          <source>Contact</source>
+          <note>link whoch will open browser</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -386,6 +386,11 @@ Z tym jednorazowym zakupem pomagasz mi utrzymać apkę. Dzięki!</target>
           <target>Potrzebujesz pomocy?</target>
           <note>link to github repo with translations</note>
       </trans-unit>
+      <trans-unit id="Contact">
+          <source>Contact</source>
+          <target>Kontakt</target>
+          <note>link whoch will open browser</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
