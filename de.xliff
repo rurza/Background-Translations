@@ -372,6 +372,14 @@ Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit.</target>
         <target>🙈 Oh, nein!</target>
         <note>alert error title</note>
       </trans-unit>
+      <trans-unit id="Support">
+          <source>Support</source>
+          <note>Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Want to help translating the app into your language? Need a help?">
+          <source>Want to help translating the app into your language? Need a help?</source>
+          <note>link to github repo with translations</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

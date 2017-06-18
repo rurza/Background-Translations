@@ -376,6 +376,16 @@ Z tym jednorazowym zakupem pomagasz mi utrzymać apkę. Dzięki!</target>
         <target>🙈 O nie!</target>
         <note>alert error title</note>
       </trans-unit>
+      <trans-unit id="Support">
+          <source>Support</source>
+          <target>Wsparcie</target>
+          <note>Settings - section title</note>
+      </trans-unit>
+      <trans-unit id="Want to help translating the app into your language? Need a help?">
+          <source>Want to help translating the app into your language? Need a help?</source>
+          <target>Potrzebujesz pomocy?</target>
+          <note>link to github repo with translations</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
