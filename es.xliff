@@ -287,7 +287,7 @@ Norwegian Translation: Karo</source>
       </trans-unit>
       <trans-unit id="Search requires Background Premium.">
         <source>Search requires Background Premium.</source>
-        <target>Para Buscar necesita Background Premium</target>
+        <target>Para Buscar necesita Background Premium.</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
