@@ -53,7 +53,7 @@ Norwegian: Karo
 
 Italian: [@jacopoiuytr](https://twitter.com/jacopoiuytr)
 
-
+French: [@AGreyPoupon](https://twitter.com/AGreyPoupon)
 
 Thanks a lot! Any questions?
 
