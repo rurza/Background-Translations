@@ -38,7 +38,7 @@
     <body>
       <trans-unit id="Can't download info from Unsplash">
         <source>Can't download info from Unsplash</source>
-        <target>Impossible de télécharger des informations depuis Unsplash</target>
+        <target>Impossible de télécharger les informations depuis Unsplash</target>
         <note>widget - error</note>
       </trans-unit>
       <trans-unit id="Can't download the latest photo">
@@ -101,7 +101,7 @@
       <trans-unit id="Access Photo Library">
           <!--    Image 1b      -->
         <source>Access Photo Library</source>
-        <target>Accéder bibliothèque de photos</target>
+        <target>Accéder la bibliothèque de photos</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Acknowledgements">
@@ -197,12 +197,12 @@ c'est les belles photos.</target>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
         <source>Looks like you haven't bought Background Premium 😇</source>
-        <target>Il semble que vous ne n'avez pas acheté Background Premium 😇</target>
+        <target>Il semble que vous n'avez pas acheté Background Premium 😇</target>
         <note>error localized description</note>
       </trans-unit>
       <trans-unit id="New photos available">
         <source>New photos available</source>
-        <target>Des nouvelles photos disponibles</target>
+        <target>Des nouvelles photos sont disponibles</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="No results">
@@ -242,7 +242,7 @@ c'est les belles photos.</target>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
-        <target>Ouvrir Paramètres</target>
+        <target>Ouvrir les Paramètres</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Premium – %@">
@@ -268,7 +268,7 @@ c'est les belles photos.</target>
       <trans-unit id="Rate on the App Store">
           <!--    Image 4b      -->
         <source>Rate on the App Store</source>
-        <target>Classer sur le App Store</target>
+        <target>Noter sur le App Store</target>
         <note>button title</note>
       </trans-unit>
       <trans-unit id="Restore purchase">
@@ -339,7 +339,7 @@ c'est les belles photos.</target>
       <trans-unit id="Tap to refresh the feed">
           <!--    Image 6      -->
         <source>Tap to refresh the feed</source>
-        <target>Touchez pour actualiser le flux</target>
+        <target>Appuyez pour actualiser le flux</target>
         <note>internal notification</note>
       </trans-unit>
       <trans-unit id="Thank you for your support 😊">
@@ -355,7 +355,7 @@ c'est les belles photos.</target>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
           <!--    Image 4b      -->
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target>Le bouton ci-dessous ouvrira la page de Background sur le App Store, où vous pouvez le classer.</target>
+        <target>Le bouton ci-dessous ouvrira la page de Background sur le App Store, où vous pouvez la noter.</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
@@ -367,7 +367,7 @@ c'est les belles photos.</target>
       <trans-unit id="Touch and hold a photo to save it.">
           <!--    Image 1d      -->
         <source>Touch and hold a photo to save it.</source>
-        <target>Appuyez une photo et maintenir pour la sauvegarder.</target>
+        <target>Appuyez sur une photo et maintenir pour l'enregistrer.</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
@@ -396,7 +396,7 @@ With this one time in-app purchase you help me keep the app alive. Thanks!</sour
         <target>Avec Background Premium vous obtenez:
 Pas de pubs.
 La recherche.
-Avec cet seule fois achat dans application vous m'avez aidé à garder l'application en vie. Merci!</target>
+Avec un seul achat dans l'application vous allez m'aider à garder l'application en vie. Merci!</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
