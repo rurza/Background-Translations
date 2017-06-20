@@ -6,7 +6,7 @@ Repo is available for anyone that want to help translating [Background](https://
 
 ## Algorithm
 
-1. Clone repo.
+1. Fork the repo.
 2. Duplicate `generic.xliff` and name it as your language in ISO 639-1 norm.
 3. Replace `generic` in `target-language="generic"` with your language.
 4. Translate by updating `<target></target>` tags (delete it if you don't have anything to translate).
@@ -54,6 +54,10 @@ Norwegian: Karo
 Italian: [@jacopoiuytr](https://twitter.com/jacopoiuytr)
 
 French: [@AGreyPoupon](https://twitter.com/AGreyPoupon)
+
+Indonesian: Dane
+
+Spanish: carcoco
 
 Thanks a lot! Any questions?
 
