@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-------Translated into French by @AGreyPoupon----->
+<!-- Translated into French by @AGreyPoupon -->
 <!--
  //
  Info.plist
@@ -208,7 +208,7 @@ c'est les belles photos.</target>
       <trans-unit id="No results">
           <!--    Image 2c      -->
           <source>No results</source>
-          <target>aucun résultat</target>
+          <target>Aucun résultat</target>
           <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
@@ -419,4 +419,4 @@ Avec un seul achat dans l'application vous allez m'aider à garder l'application
     </body>
   </file>
 </xliff>
-<!-------Translated into French by @AGreyPoupon----->
+<!-- Translated into French by @AGreyPoupon -->

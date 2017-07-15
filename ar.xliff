@@ -10,7 +10,7 @@
  UIApplicationShortcutItemTitleSearch = "بحث";
  //
  //Photo Library permissions alert
- NSPhotoLibraryUsageDescription = ".الإذن بدخول مكتبة صورك من أجل حفظ الصور Background امنح";
+ NSPhotoLibraryUsageDescription = "إمنح تطبيق باكجروند الإذن بدخول مكتبة صورك من أجل حفظ الصور";
  -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
@@ -121,15 +121,15 @@
       <trans-unit id="Background photos use %@ on disk.">
           <!--    Image 4b      -->
         <source>Background photos use %@ on disk.</source>
-        <target>%@ تستعل من الذاكرة Background صور</target>
+        <target>تستعمل صور تطبيق باكجروند من الذاكرة %@ </target>
         <note>Disk usage information. %@ is usage</note>
       </trans-unit>
       <trans-unit id="Background\nis all about beautiful photos.">
           <!--    Image 1a      -->
         <source>Background
 is all about beautiful photos.</source>
-        <target>Background
-.كله حول أجمل الصور</target>
+<target>Background
+كله حول أجمل الصور</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -168,7 +168,7 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="I can't download photos.">
         <source>I can't download photos.</source>
-        <target>.لا يمكنني تحميل الصور</target>
+        <target>لا يمكنني تحميل الصور</target>
         <note>onboarding - error body</note>
       </trans-unit>
       <trans-unit id="I will, later">
@@ -179,7 +179,7 @@ is all about beautiful photos.</source>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
           <!--    Image 1b      -->
         <source>It can send you notifications when there are some cool new photos.</source>
-        <target>.يمكن للتطبيق ان يشعرك عند وجود صور جديدة و رائعة</target>
+        <target>يمكن لتطبيق باكجروند ان يشعرك عند وجود صور جديدة ورائعة</target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
@@ -196,7 +196,8 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Looks like you haven't bought Background Premium 😇">
         <source>Looks like you haven't bought Background Premium 😇</source>
-        <target>😇 Background Premium يبدو انك لم تشتري</target>
+        <target>يبدو انك لم تشتري
+Background Premium 😇</target>
         <note>error localized description</note>
       </trans-unit>
       <trans-unit id="New photos available">
@@ -300,7 +301,8 @@ is all about beautiful photos.</source>
       <trans-unit id="Search requires Background Premium.">
           <!--    Image 2      -->
         <source>Search requires Background Premium.</source>
-        <target>.Background Premium البحث يتطلب</target>
+        <target>تتطلب خاصية البحث
+Background Premium</target>
         <note>Search in-app purchase description</note>
       </trans-unit>
       <trans-unit id="Send Notifications">
@@ -316,12 +318,12 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in curated photos feed">
         <source>Some great, new photos are available in curated photos feed</source>
-        <target>صور جديدة رائعة متوفرة في جزء الصور المختارة</target>
+        <target>صور جديدة رائعة متوفرة عبر مصدر الصور المختارة</target>
         <note>Title of notification body, when new photos are available in curated photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available in latest photos feed">
         <source>Some great, new photos are available in latest photos feed</source>
-        <target>صور جديدة رائعة متوفرة في جزء الصور الأخيرة</target>
+        <target>صور جديدة رائعة متوفرة عبر مصدر الصور الأخيرة</target>
         <note>Title of notification body, when new photos are available in latest photos feed</note>
       </trans-unit>
       <trans-unit id="Some great, new photos are available 🌊">
@@ -343,7 +345,7 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Thank you for your support 😊">
         <source>Thank you for your support 😊</source>
-        <target>😊 شكرا لدعمك</target>
+        <target>😊 شكرا لدعمك </target>
         <note>alert body after purchasing background premium</note>
       </trans-unit>
       <trans-unit id="Thanks!">
@@ -354,19 +356,20 @@ is all about beautiful photos.</source>
       <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
           <!--    Image 4b      -->
         <source>The button below will open Background's App Store page, where you can rate it.</source>
-        <target>اين يمكنك تقييم التطبيق App Store عبر ال Background الزر في الأسفل يفتح صفحة</target>
+        <target>الزر في الأسفل يفتح الصفحة الخاصة بالتطبيق عبر متجر التطبيقات اين يمكنك تقييم
+Background</target>
         <note>description of button - which will open App Store page</note>
       </trans-unit>
       <trans-unit id="To save photos give Background access to your Photo Library.">
           <!--    Image 1b      -->
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>.الإذن بدخول مكتبة صورك Background من أجل حفظ الصور يجب عليك إعطاء</target>
+        <target>من أجل حفظ الصور يجب عليك اعطاء تطبيق باكجروند الإذن بدخول مكتبة صورك</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
           <!--    Image 1d      -->
         <source>Touch and hold a photo to save it.</source>
-        <target>.إلمس وابق اصبعك على صورة من أجل حفضها</target>
+        <target>إلمس صورة وأبق إصبعك عليها من أجل حفظها</target>
         <note>(Onboarding) Description how to save photo</note>
       </trans-unit>
       <trans-unit id="Try again">
@@ -383,7 +386,8 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
         <source>Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.</source>
-        <target>لسوء الحظ لا يمكن حفظ هذه الصورة في مكتبة الصور -تفقد الاعدادات لا أضن ان التطبيق يملك الاذن بدخول مكتبة صورك</target>
+        <target>لسوء الحظ لا يمكن حفظ هذه الصورة في مكتبة الصور
+تفقد الاعدادات لا أضن ان تطبيق باكجروند يملك الاذن بدخول مكتبة صورك</target>
         <note>alert error body</note>
       </trans-unit>
       <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
@@ -392,15 +396,14 @@ is all about beautiful photos.</source>
 No ads.
 Search.
 With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target>:على Background Premium تحصل مع
-.تطبيق دون إعلانات
-.خاصية البحث
-مع هذا الشراء داخل التطبيق لمرّة واحدة ستساعدني على إبقاء التطبيق على قيد الحياة شكرا</target>
+        <target>Background Premium تحصل مع
+على تطبيق دون إعلانات مع خاصية البحث
+بهذا الشراء خلال التطبيق لمرّة واحدة ستساعدني على إبقاء هذا التطبيق على قيد الحياة شكرا</target>
         <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
-        <target>🙈 أوه لا</target>
+        <target>أوه لا 🙈 </target>
         <note>alert error title</note>
       </trans-unit>
       <trans-unit id="Support">
