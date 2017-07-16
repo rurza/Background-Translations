@@ -208,7 +208,7 @@ c'est les belles photos.</target>
       <trans-unit id="No results">
           <!--    Image 2c      -->
           <source>No results</source>
-          <target>aucun résultat</target>
+          <target>Aucun résultat</target>
           <note>Info, when there is no results after searching</note>
       </trans-unit>
       <trans-unit id="Nooooo :(">
