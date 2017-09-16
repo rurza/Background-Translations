@@ -121,7 +121,7 @@
       <trans-unit id="Background photos use %@ on disk.">
           <!--    Image 4b      -->
         <source>Background photos use %@ on disk.</source>
-        <target>تستعمل صور تطبيق باكجروند من الذاكرة %@ </target>
+        <target>تستعمل صور التطبيق من الذاكرة %@ </target>
         <note>Disk usage information. %@ is usage</note>
       </trans-unit>
       <trans-unit id="Background\nis all about beautiful photos.">
@@ -129,7 +129,7 @@
         <source>Background
 is all about beautiful photos.</source>
 <target>Background
-كله حول أجمل الصور</target>
+كله حول أروع الصور</target>
         <note>onboarding - first screen, welcome</note>
       </trans-unit>
       <trans-unit id="Cache">
@@ -139,7 +139,7 @@ is all about beautiful photos.</source>
       </trans-unit>
       <trans-unit id="Can't complete transaction">
         <source>Can't complete transaction</source>
-        <target>لا يمكنني إكمال العملية</target>
+        <target>لا يمكنني اكمال العملية</target>
         <note>alert title
    in-app purchase error title</note>
       </trans-unit>
@@ -179,7 +179,7 @@ is all about beautiful photos.</source>
       <trans-unit id="It can send you notifications when there are some cool new photos.">
           <!--    Image 1b      -->
         <source>It can send you notifications when there are some cool new photos.</source>
-        <target>يمكن لتطبيق باكجروند ان يشعرك عند وجود صور جديدة ورائعة</target>
+        <target>يمكن للتطبيق ان يشعرك عند وجود صور جديدة ورائعة</target>
         <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
       </trans-unit>
       <trans-unit id="Latest">
@@ -363,7 +363,7 @@ Background</target>
       <trans-unit id="To save photos give Background access to your Photo Library.">
           <!--    Image 1b      -->
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>من أجل حفظ الصور يجب عليك اعطاء تطبيق باكجروند الإذن بدخول مكتبة صورك</target>
+        <target>من أجل حفظ الصور يجب عليك التطبيق الإذن بدخول مكتبة صورك</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
