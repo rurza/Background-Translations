@@ -10,7 +10,7 @@
  UIApplicationShortcutItemTitleSearch = "بحث";
  //
  //Photo Library permissions alert
- NSPhotoLibraryUsageDescription = "إمنح تطبيق باكجروند الإذن بدخول مكتبة صورك من أجل حفظ الصور";
+ NSPhotoLibraryUsageDescription = "إمنح التطبيق الإذن بدخول مكتبة صورك من أجل حفظ الصور";
  -->
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Background Widget/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
@@ -363,7 +363,7 @@ Background</target>
       <trans-unit id="To save photos give Background access to your Photo Library.">
           <!--    Image 1b      -->
         <source>To save photos give Background access to your Photo Library.</source>
-        <target>من أجل حفظ الصور يجب عليك التطبيق الإذن بدخول مكتبة صورك</target>
+        <target>من أجل حفظ الصور يجب عليك منح التطبيق الإذن بدخول مكتبة صورك</target>
         <note>Description that inform user that permissions are needed to save photo</note>
       </trans-unit>
       <trans-unit id="Touch and hold a photo to save it.">
