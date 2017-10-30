@@ -390,16 +390,18 @@ Background</target>
 تفقد الاعدادات لا أضن ان تطبيق باكجروند يملك الاذن بدخول مكتبة صورك</target>
         <note>alert error body</note>
       </trans-unit>
-      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
-          <!--    Image 2 and 4a      -->
-        <source>With Background Premium you get:
-No ads.
-Search.
-With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target>Background Premium تحصل مع
-على تطبيق دون إعلانات مع خاصية البحث
-بهذا الشراء خلال التطبيق لمرّة واحدة ستساعدني على إبقاء هذا التطبيق على قيد الحياة شكرا</target>
-        <note>description of in-app purchase</note>
+      <trans-unit id="While saving a photo, Background downloads the full–size picture. \nRequires Background Premium.">
+          <source>While saving a photo, Background downloads the full–size picture.
+ Requires Background Premium.</source>
+          <note>Description of ability to download full resolution photo in Settings</note>
+      </trans-unit>
+      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nAbility to save full resolution photos. \nWith this one time in-app purchase you help me keep the app alive. Thanks!">
+          <source>With Background Premium you get:
+              No ads.
+              Search.
+              Ability to save a full resolution photo.
+              With this one time in-app purchase you help me keep the app alive. Thanks!</source>
+          <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
@@ -417,6 +419,14 @@ With this one time in-app purchase you help me keep the app alive. Thanks!</sour
       <trans-unit id="Contact">
           <source>Contact</source>
           <note>link whoch will open mail</note>
+      </trans-unit>
+      <trans-unit id="Photos">
+          <source>Photos</source>
+          <note>Settings – section title</note>
+      </trans-unit>
+      <trans-unit id="Full resolution photo">
+          <source>Full resolution photo</source>
+          <note>Title next to switch, must be very short</note>
       </trans-unit>
     </body>
   </file>

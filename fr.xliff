@@ -387,17 +387,18 @@ c'est les meilleures photos.</target>
         <target>Malheureusement, je ne peux pas enregistrer cette photo dans votre bibliothèque de photos. Vérifiez les paramètres - Je pense je n'ai pas accès à votre bibliothèque de photos.</target>
         <note>alert error body</note>
       </trans-unit>
-      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
-          <!--    Image 2 and 4a      -->
-        <source>With Background Premium you get:
-No ads.
-Search.
-With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target>Avec Background Premium vous obtenez:
-Pas de pubs.
-La recherche.
-Avec un seul achat dans l'application vous allez m'aider à garder l'application en vie. Merci!</target>
-        <note>description of in-app purchase</note>
+      <trans-unit id="While saving a photo, Background downloads the full–size picture. \nRequires Background Premium.">
+          <source>While saving a photo, Background downloads the full–size picture.
+              Requires Background Premium.</source>
+          <note>Description of ability to download full resolution photo in Settings</note>
+      </trans-unit>
+      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nAbility to save full resolution photos. \nWith this one time in-app purchase you help me keep the app alive. Thanks!">
+          <source>With Background Premium you get:
+              No ads.
+              Search.
+              Ability to save a full resolution photo.
+              With this one time in-app purchase you help me keep the app alive. Thanks!</source>
+          <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
@@ -415,6 +416,14 @@ Avec un seul achat dans l'application vous allez m'aider à garder l'application
       <trans-unit id="Contact">
           <source>Contact</source>
           <note>link whoch will open mail</note>
+      </trans-unit>
+      <trans-unit id="Photos">
+          <source>Photos</source>
+          <note>Settings – section title</note>
+      </trans-unit>
+      <trans-unit id="Full resolution photo">
+          <source>Full resolution photo</source>
+          <note>Title next to switch, must be very short</note>
       </trans-unit>
     </body>
   </file>

@@ -356,16 +356,18 @@ allerbesten Fotos.</target>
         <target>Es tut mit Leid, es ist nicht möglich Deine Fotos in Deiner Mediathek zu speichern.</target>
         <note>alert error body</note>
       </trans-unit>
-      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
-        <source>With Background Premium you get:
-No ads.
-Search.
-With this one time in-app purchase you help me keep the app alive. Thanks!</source>
-        <target>Mit Background Premium:
-Ohne Werbung.
-Es gibt eine Suchfunktion.
-Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit.</target>
-        <note>description of in-app purchase</note>
+      <trans-unit id="While saving a photo, Background downloads the full–size picture. \nRequires Background Premium.">
+          <source>While saving a photo, Background downloads the full–size picture.
+              Requires Background Premium.</source>
+          <note>Description of ability to download full resolution photo in Settings</note>
+      </trans-unit>
+      <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nAbility to save full resolution photos. \nWith this one time in-app purchase you help me keep the app alive. Thanks!">
+          <source>With Background Premium you get:
+              No ads.
+              Search.
+              Ability to save a full resolution photo.
+              With this one time in-app purchase you help me keep the app alive. Thanks!</source>
+          <note>description of in-app purchase</note>
       </trans-unit>
       <trans-unit id="🙈 Oh no!">
         <source>🙈 Oh no!</source>
@@ -383,6 +385,14 @@ Mit diesem einmaligen Einkauf unterstützt Du mich bei meiner Arbeit.</target>
       <trans-unit id="Contact">
           <source>Contact</source>
           <note>link whoch will open browser</note>
+      </trans-unit>
+      <trans-unit id="Photos">
+          <source>Photos</source>
+          <note>Settings – section title</note>
+      </trans-unit>
+      <trans-unit id="Full resolution photo">
+          <source>Full resolution photo</source>
+          <note>Title next to switch, must be very short</note>
       </trans-unit>
     </body>
   </file>
