@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
     <file original="Background Widget/Base.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="ru">
         <header>
             <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4" build-num="9F1027a"/>
@@ -7,10 +6,12 @@
         <body>
             <trans-unit id="CFBundleDisplayName">
                 <source>Background</source>
+                <target>Background</target>
                 <note>Bundle display name</note>
             </trans-unit>
             <trans-unit id="CFBundleName">
                 <source>$(PRODUCT_NAME)</source>
+                <target> $(ИМЯ_ПРОДУКТА)</target>
                 <note>Bundle name</note>
             </trans-unit>
         </body>
@@ -22,37 +23,37 @@
         <body>
             <trans-unit id="Can't download info from Unsplash">
                 <source>Can't download info from Unsplash</source>
-                <target></target>
+                <target>Не удалось загрузить информацию с Unsplash</target>
                 <note>widget - error</note>
             </trans-unit>
             <trans-unit id="Can't download the latest photo">
                 <source>Can't download the latest photo</source>
-                <target></target>
+                <target>Не удалось загрузить последнее фото</target>
                 <note>widget - error</note>
             </trans-unit>
             <trans-unit id="Curated">
                 <source>Curated</source>
-                <target></target>
+                <target>Авторские</target>
                 <note>widget - button title</note>
             </trans-unit>
             <trans-unit id="Downloading info from Unsplash">
                 <source>Downloading info from Unsplash</source>
-                <target></target>
+                <target>Загрузка информации с Unsplash</target>
                 <note>widget - info</note>
             </trans-unit>
             <trans-unit id="Downloading photo">
                 <source>Downloading photo</source>
-                <target></target>
+                <target>Загрузка фото</target>
                 <note>widget - info</note>
             </trans-unit>
             <trans-unit id="Latest">
                 <source>Latest</source>
-                <target></target>
+                <target>Последние</target>
                 <note>widget - button title</note>
             </trans-unit>
             <trans-unit id="Search">
                 <source>Search</source>
-                <target></target>
+                <target>Поиск</target>
                 <note>widget - button title</note>
             </trans-unit>
         </body>
@@ -64,31 +65,32 @@
         <body>
             <trans-unit id="CFBundleName">
                 <source>$(PRODUCT_NAME)</source>
+                <target> $(ИМЯ_ПРОДУКТА)</target>
                 <note>Bundle name</note>
             </trans-unit>
             <trans-unit id="NSPhotoLibraryAddUsageDescription">
                 <source>Give Background Access to your Photo Library to save images.</source>
-                <target></target>
+                <target>Приложение Background получит доступ к вашей фототеке для сохранения изображений.</target>
                 <note>Privacy - Photo Library Additions Usage Description</note>
             </trans-unit>
             <trans-unit id="NSPhotoLibraryUsageDescription">
                 <source>Give Background Access to your Photo Library to save images.</source>
-                <target></target>
+                <target>Приложение Background получит доступ к вашей фототеке для сохранения изображений.</target>
                 <note>Privacy - Photo Library Usage Description</note>
             </trans-unit>
             <trans-unit id="UIApplicationShortcutItemTitleCurated">
                 <source>Curated</source>
-                <target></target>
+                <target>Авторские</target>
                 <note/>
             </trans-unit>
             <trans-unit id="UIApplicationShortcutItemTitleLatest">
                 <source>Latest</source>
-                <target></target>
+                <target>Последние</target>
                 <note/>
             </trans-unit>
             <trans-unit id="UIApplicationShortcutItemTitleSearch">
                 <source>Search</source>
-                <target></target>
+                <target>Поиск</target>
                 <note/>
             </trans-unit>
         </body>
@@ -100,385 +102,385 @@
         <body>
             <trans-unit id="Access Photo Library">
                 <source>Access Photo Library</source>
-                <target></target>
+                <target>Дать доступ</target>
                 <note>button title</note>
             </trans-unit>
             <trans-unit id="Acknowledgements">
                 <source>Acknowledgements</source>
-                <target></target>
+                <target>Благодарность</target>
                 <note>Settings - section title</note>
             </trans-unit>
             <trans-unit id="App Store">
                 <source>App Store</source>
-                <target></target>
+                <target>App Store</target>
                 <note>Settings - section title</note>
             </trans-unit>
             <trans-unit id="Arabic Translation: @AGreyPoupon\nChinese Translation: F1y Syn \nFrench Translation: @AGreyPoupon\nIndonesian Translation: Dane\nItalian Translation: @jacopoiuytr \nNorwegian Translation: Karo \nSpanish Translation: carcoco">
                 <source>Arabic Translation: @AGreyPoupon\nChinese Translation: F1y Syn \nFrench Translation: @AGreyPoupon\nIndonesian Translation: Dane\nItalian Translation: @jacopoiuytr \nNorwegian Translation: Karo \nSpanish Translation: carcoco</source>
-                <target></target>
+                <target>Перевод на арабский: @AGreyPoupon\nПеревод на китайский: F1y Syn\nПеревод на французский: @AGreyPoupon\nПеревод на индонезийский: Dane\nПеревод на итальянский: @jacopoiuytr \nПеревод на норвежский: Karo\nПеревод на испанский: carcoco\nПеревод на русский: @konstandy</target>
                 <note>Acknowledgements in Settings</note>
             </trans-unit>
             <trans-unit id="Background Premium">
                 <source>Background Premium</source>
-                <target></target>
+                <target>Background Премиум</target>
                 <note>button title that purchase Background Premium
                     Settings - section title</note>
             </trans-unit>
             <trans-unit id="Background photos use %@ on disk.">
                 <source>Background photos use %@ on disk.</source>
-                <target></target>
+                <target>Фотографии Background используют %@ на диске.</target>
                 <note>Disk usage information. %@ is usage</note>
             </trans-unit>
             <trans-unit id="Background\nis all about beautiful photos.">
                 <source>Background\nis all about beautiful photos.</source>
-                <target></target>
+                <target>Background\n это мир замечательных фотографий.</target>
                 <note>onboarding - first screen, welcome</note>
             </trans-unit>
             <trans-unit id="Cache">
                 <source>Cache</source>
-                <target></target>
+                <target>Кэш</target>
                 <note>Settings - section title</note>
             </trans-unit>
             <trans-unit id="Can't complete transaction">
                 <source>Can't complete transaction</source>
-                <target></target>
+                <target>Не удаётся завершить транзакцию</target>
                 <note>alert title
                     in-app purchase error title</note>
             </trans-unit>
             <trans-unit id="Can't unlike the photo">
                 <source>Can't unlike the photo</source>
-                <target></target>
+                <target>Не удалось снять оценку с фотографии</target>
                 <note>error title</note>
             </trans-unit>
             <trans-unit id="Check out new photos!">
                 <source>Check out new photos!</source>
-                <target></target>
+                <target>Проверь новые фотографии!</target>
                 <note>new photos availale notification title</note>
             </trans-unit>
             <trans-unit id="Clear Cache">
                 <source>Clear Cache</source>
-                <target></target>
+                <target>Очистить кэш</target>
                 <note>button title</note>
             </trans-unit>
             <trans-unit id="Contact">
                 <source>Contact</source>
-                <target></target>
+                <target>Связаться</target>
                 <note>button which will open mail</note>
             </trans-unit>
             <trans-unit id="Curated">
                 <source>Curated</source>
-                <target></target>
+                <target>Авторские</target>
                 <note>(Settings) Screen order - title</note>
             </trans-unit>
             <trans-unit id="Don't have an account? Sign up">
                 <source>Don't have an account? Sign up</source>
-                <target></target>
+                <target>Нет аккаунта? Присоединяйтесь!</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Favourites">
                 <source>Favourites</source>
-                <target></target>
+                <target>Избранное</target>
                 <note>(Settings) Screen order - title</note>
             </trans-unit>
             <trans-unit id="Full resolution photo">
                 <source>Full resolution photo</source>
-                <target></target>
+                <target>Полное разрешение фотографии</target>
                 <note>Title next to switch, must be very short</note>
             </trans-unit>
             <trans-unit id="Have Fun!">
                 <source>Have Fun!</source>
-                <target></target>
+                <target>Развлекайтесь!</target>
                 <note>Search demo turned on - alert title</note>
             </trans-unit>
             <trans-unit id="Hints">
                 <source>Hints</source>
-                <target></target>
+                <target>Подсказки</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="I can't download photos.">
                 <source>I can't download photos.</source>
-                <target></target>
+                <target>Мне не удалось загрузить фотографии.</target>
                 <note>onboarding - error body</note>
             </trans-unit>
             <trans-unit id="I will, later">
                 <source>I will, later</source>
-                <target></target>
+                <target>Я сделаю, позже</target>
                 <note>alert error button action</note>
             </trans-unit>
             <trans-unit id="It can send you notifications when there are some cool new photos.">
                 <source>It can send you notifications when there are some cool new photos.</source>
-                <target></target>
+                <target>Приложение может отправлять вам уведомления, когда появятся новые фотографии.</target>
                 <note>Description that inform user that permissions are needed to send local notifications about new photos</note>
             </trans-unit>
             <trans-unit id="Latest">
                 <source>Latest</source>
-                <target></target>
+                <target>Последние</target>
                 <note>(Settings) Screen order - title</note>
             </trans-unit>
             <trans-unit id="Let's go!">
                 <source>Let's go!</source>
-                <target></target>
+                <target>Поехали!</target>
                 <note>button title</note>
             </trans-unit>
             <trans-unit id="Log In">
                 <source>Log In</source>
-                <target></target>
+                <target>Войти</target>
                 <note>button which will log in unsplash user</note>
             </trans-unit>
             <trans-unit id="Log Out">
                 <source>Log Out</source>
-                <target></target>
+                <target>Выйти</target>
                 <note>button which will log out unsplash user</note>
             </trans-unit>
             <trans-unit id="Looks like you haven't bought Background Premium 😇">
                 <source>Looks like you haven't bought Background Premium 😇</source>
-                <target></target>
+                <target>Похоже, что вы ещё не приобрели Background Премиум 😇</target>
                 <note>error localized description</note>
             </trans-unit>
             <trans-unit id="Nevermind">
                 <source>Nevermind</source>
-                <target></target>
+                <target>Неважно</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="New photos available">
                 <source>New photos available</source>
-                <target></target>
+                <target>Доступны новые фотографии </target>
                 <note>internal notification</note>
             </trans-unit>
             <trans-unit id="No results">
                 <source>No results</source>
-                <target></target>
+                <target>Нет результатов</target>
                 <note>Info, when there is no results after searching</note>
             </trans-unit>
             <trans-unit id="Nooooo :(">
                 <source>Nooooo :(</source>
-                <target></target>
+                <target>Нееееет :(</target>
                 <note>Alert title</note>
             </trans-unit>
             <trans-unit id="Nothing to restore">
                 <source>Nothing to restore</source>
-                <target></target>
+                <target>Нечего восстанавливать</target>
                 <note>Error title</note>
             </trans-unit>
             <trans-unit id="Now you can use the Search for a day">
                 <source>Now you can use the Search for a day</source>
-                <target></target>
+                <target>Теперь вы можете использовать поиск в течение дня</target>
                 <note>Search demo turned on - alert body</note>
             </trans-unit>
             <trans-unit id="OK">
                 <source>OK</source>
-                <target></target>
+                <target>OK</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Oh no!">
                 <source>Oh no!</source>
-                <target></target>
+                <target>О нет!</target>
                 <note>onboarding - error title</note>
             </trans-unit>
             <trans-unit id="Oh no! Can't download photos">
                 <source>Oh no! Can't download photos</source>
-                <target></target>
+                <target>О нет! Не удалось загрузить фотографии</target>
                 <note>dashboard - error</note>
             </trans-unit>
             <trans-unit id="Ooops">
                 <source>Ooops</source>
-                <target></target>
+                <target>Упс</target>
                 <note>error title</note>
             </trans-unit>
             <trans-unit id="Open Settings">
                 <source>Open Settings</source>
-                <target></target>
+                <target>Открыть настройки</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Photos">
                 <source>Photos</source>
-                <target></target>
+                <target>Фотографии</target>
                 <note>Settings – section title</note>
             </trans-unit>
             <trans-unit id="Popular">
                 <source>Popular</source>
-                <target></target>
+                <target>Популярное</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="Premium – %@">
                 <source>Premium – %@</source>
-                <target></target>
+                <target>Премиум - %@</target>
                 <note>Button title, where Premium is constant and %@ is localized price
                     purchase Background Premium, %@ is price</note>
             </trans-unit>
             <trans-unit id="Profile">
                 <source>Profile</source>
-                <target></target>
+                <target>Профиль</target>
                 <note>Settins – section title</note>
             </trans-unit>
             <trans-unit id="Purchase was deferred">
                 <source>Purchase was deferred</source>
-                <target></target>
+                <target>Покупка была отложена</target>
                 <note>alert with error title
                     in-app purchase was deferred, for exmaple phote has parental control turned on and user can't complete purchase</note>
             </trans-unit>
             <trans-unit id="Purchase was deferred. I will disable buttons for some time">
                 <source>Purchase was deferred. I will disable buttons for some time</source>
-                <target></target>
+                <target>Покупка была отложена. Кнопки будут отключены на некоторое время.</target>
                 <note>Error description</note>
             </trans-unit>
             <trans-unit id="Purchase was deferred. I will disable buttons.">
                 <source>Purchase was deferred. I will disable buttons.</source>
-                <target></target>
+                <target>Покупка была отложена. Кнопки отключены.</target>
                 <note>alert with error body</note>
             </trans-unit>
             <trans-unit id="Rate on the App Store">
                 <source>Rate on the App Store</source>
-                <target></target>
+                <target>Оценить в App Store</target>
                 <note>button title</note>
             </trans-unit>
             <trans-unit id="Restore purchase">
                 <source>Restore purchase</source>
-                <target></target>
+                <target>Восстановить покупку</target>
                 <note>restore background premium button
                     Restore Background Premium button title
                     restore Background Premium purchase button</note>
             </trans-unit>
             <trans-unit id="SAVED">
                 <source>SAVED</source>
-                <target></target>
+                <target>СОХРАНЕНО</target>
                 <note>photo was saved to library</note>
             </trans-unit>
             <trans-unit id="Screens Order">
                 <source>Screens Order</source>
-                <target></target>
+                <target>Разделы экрана</target>
                 <note>Settings - section title</note>
             </trans-unit>
             <trans-unit id="Search">
                 <source>Search</source>
-                <target></target>
+                <target>Поиск</target>
                 <note>(Settings) Screen order - title
                     search text field</note>
             </trans-unit>
             <trans-unit id="Search requires Background Premium.">
                 <source>Search requires Background Premium.</source>
-                <target></target>
+                <target>Чтобы пользоваться поиском требуется Background Премиум.</target>
                 <note>Search in-app purchase description</note>
             </trans-unit>
             <trans-unit id="Send Notifications">
                 <source>Send Notifications</source>
-                <target></target>
+                <target>Отправлять уведомления</target>
                 <note>button title</note>
             </trans-unit>
             <trans-unit id="Settings">
                 <source>Settings</source>
-                <target></target>
+                <target>Настройки</target>
                 <note>(Settings) Screen order - title</note>
             </trans-unit>
             <trans-unit id="Show Hints">
                 <source>Show Hints</source>
-                <target></target>
+                <target>Показывать подсказки</target>
                 <note>Title next to switch, must be very short</note>
             </trans-unit>
             <trans-unit id="Some great, new photos are available in curated photos feed">
                 <source>Some great, new photos are available in curated photos feed</source>
-                <target></target>
+                <target>Раздел "Авторские" пополнился новыми фотографиями</target>
                 <note>Title of notification body, when new photos are available in curated photos feed</note>
             </trans-unit>
             <trans-unit id="Some great, new photos are available in latest photos feed">
                 <source>Some great, new photos are available in latest photos feed</source>
-                <target></target>
+                <target>Раздел "Последние" пополнился новыми фотографиями</target>
                 <note>Title of notification body, when new photos are available in latest photos feed</note>
             </trans-unit>
             <trans-unit id="Some great, new photos are available 🌊">
                 <source>Some great, new photos are available 🌊</source>
-                <target></target>
+                <target>Доступны новые и отменные фотографии 🌊</target>
                 <note>Generic 'new photos' notification body</note>
             </trans-unit>
             <trans-unit id="Sponsored">
                 <source>Sponsored</source>
-                <target></target>
+                <target>При поддержке</target>
                 <note>ad sponsred label</note>
             </trans-unit>
             <trans-unit id="Support">
                 <source>Support</source>
-                <target></target>
+                <target>Помощь</target>
                 <note>Settings - section title</note>
             </trans-unit>
             <trans-unit id="Tap to refresh the feed">
                 <source>Tap to refresh the feed</source>
-                <target></target>
+                <target>Нажмите, чтобы обновить ленту</target>
                 <note>internal notification</note>
             </trans-unit>
             <trans-unit id="Thank you for your support 😊">
                 <source>Thank you for your support 😊</source>
-                <target></target>
+                <target>Спасибо за вашу помощь 😊</target>
                 <note>alert body after purchasing background premium</note>
             </trans-unit>
             <trans-unit id="Thanks!">
                 <source>Thanks!</source>
-                <target></target>
+                <target>Спасибо!</target>
                 <note>alert title</note>
             </trans-unit>
             <trans-unit id="The button below will open Background's App Store page, where you can rate it.">
                 <source>The button below will open Background's App Store page, where you can rate it.</source>
-                <target></target>
+                <target>Кнопка ниже откроет страницу приложения Background в App Store, где вы сможете оценить его.</target>
                 <note>description of button - which will open App Store page</note>
             </trans-unit>
             <trans-unit id="To save photos give Background access to your Photo Library.">
                 <source>To save photos give Background access to your Photo Library.</source>
-                <target></target>
+                <target>Для сохранения фотографий приложению Background потребуется доступ к вашей фототеке.</target>
                 <note>Description that inform user that permissions are needed to save photo</note>
             </trans-unit>
             <trans-unit id="Touch and hold a photo to save it.">
                 <source>Touch and hold a photo to save it.</source>
-                <target></target>
+                <target>Нажмите и удерживайте фотографию, чтобы сохранить её.</target>
                 <note>(Onboarding) Description how to save photo</note>
             </trans-unit>
             <trans-unit id="Try again">
                 <source>Try again</source>
-                <target></target>
+                <target>Попробуйте снова</target>
                 <note>Alert action when photos can't be downloaded
                     onboarding - error button action</note>
             </trans-unit>
             <trans-unit id="Try the Search for free">
                 <source>Try the Search for free</source>
-                <target></target>
+                <target>Бесплатно попробовать поиск</target>
                 <note>Search demo button title</note>
             </trans-unit>
             <trans-unit id="Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.">
                 <source>Unfortunately I can't save this photo to your Photo Library. Check out Settings – I think I don't have access to your Photo Library.</source>
-                <target></target>
+                <target>К сожалению, не удалось сохранить эту фотографию в вашу фототеку. Проверьте настройки - кажется, что у меня отсутсвует доступ к вашей фототеке.</target>
                 <note>alert error body</note>
             </trans-unit>
             <trans-unit id="Want to help translating the app into your language? Want to test a beta version of the app? Need a help?">
                 <source>Want to help translating the app into your language? Want to test a beta version of the app? Need a help?</source>
-                <target></target>
+                <target>Хотите помочь с переводом приложения на ваш язык? Хотите  протестировать бета-версию приложения? Нужна помощь?</target>
                 <note>link to github repo with translations</note>
             </trans-unit>
             <trans-unit id="When switching the screen, Background will display an overlay with the name of the screen.">
                 <source>When switching the screen, Background will display an overlay with the name of the screen.</source>
-                <target></target>
+                <target>Когда вы переходите между разделами, на экране появится окно с подсказкой, указывающей имя данного раздела.</target>
                 <note>Description of ability to download full resolution photo in Settings</note>
             </trans-unit>
             <trans-unit id="While saving a photo, Background downloads the full–size picture. \nRequires Background Premium.">
                 <source>While saving a photo, Background downloads the full–size picture. \nRequires Background Premium.</source>
-                <target></target>
+                <target>Когда вы будете сохранять фото, будет скачано изображение в полном разрешении.\nТребуется Background Премиум.</target>
                 <note>Description of ability to download full resolution photo in Settings</note>
             </trans-unit>
             <trans-unit id="With Background Premium you can like a photo by double tapping.\nAll of them will be visible here.\nIf you have the Unsplash account, log in in the settings and Background will download all your liked photos.">
                 <source>With Background Premium you can like a photo by double tapping.\nAll of them will be visible here.\nIf you have the Unsplash account, log in in the settings and Background will download all your liked photos.</source>
-                <target></target>
+                <target>С Background Премиум вы можете оценить фотографию с помощью двойного нажатия.\nВсе они будут доступны здесь.\nЕсли у вас есть Unsplash аккаунт, войдите в него в настройках и приложение Background скачает все фотографии, которые вы оценили.</target>
                 <note>description of favourite photos</note>
             </trans-unit>
             <trans-unit id="With Background Premium you get:\nNo ads.\nSearch.\nYou can:\nSave full resolution photos. \nLike photos (on Unsplash or locally).\nWith this one time in-app purchase you help me keep the app alive. Thanks!">
                 <source>With Background Premium you get:\nNo ads.\nSearch.\nYou can:\nSave full resolution photos. \nLike photos (on Unsplash or locally).\nWith this one time in-app purchase you help me keep the app alive. Thanks!</source>
-                <target></target>
+                <target>С Background Премиум вы получите:\nОтсутствие рекламы.\nПоиск.\nВы сможете:\nСохранять фотографии в полном разрешении.\nОценивать фотографии (на Unsplash или в приложении)\nС помощью этой единоразовой покупки вы поможете приложению развиваться дальше. Спасибо!</target>
                 <note>description of in-app purchase</note>
             </trans-unit>
             <trans-unit id="With Unsplash account you can like a photo on unsplash.com.\nWithout it all liked photos will be kept on device.\nRequires Background Premium.">
                 <source>With Unsplash account you can like a photo on unsplash.com.\nWithout it all liked photos will be kept on device.\nRequires Background Premium.</source>
-                <target></target>
+                <target>С аккаунтом Unsplash вы можете оценить фото на unsplash.com.\nБез него все оценённые вами фотографии будут храниться на устройсте.\nТребуется Background Премиум.</target>
                 <note>No comment provided by engineer.</note>
             </trans-unit>
             <trans-unit id="🙈 Oh no!">
                 <source>🙈 Oh no!</source>
-                <target></target>
+                <target>🙈 О нет!</target>
                 <note>alert error title</note>
             </trans-unit>
         </body>
